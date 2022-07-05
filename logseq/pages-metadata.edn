@@ -19,6 +19,9 @@
  {:block/name "card",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
+ {:block/name "contents",
+  :block/created-at 1657031360843,
+  :block/updated-at 1657031360843}
  {:block/name "continuum of data ownership",
   :block/created-at 1657026394391,
   :block/updated-at 1657028377206}
@@ -43,7 +46,7 @@
   :block/updated-at 1657028437913}
  {:block/name "i'm dustin getz, digital citizen",
   :block/created-at 1657025862958,
-  :block/updated-at 1657030303314}
+  :block/updated-at 1657030430026}
  {:block/name "in-progress",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
