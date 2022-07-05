@@ -70,7 +70,7 @@
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
  ;; :default-home {:page "home" :sidebar ["page a" "page b"]}
- :default-home {:page "Dustin Getz"}
+ :default-home {:page "I'm Dustin Getz, digital citizen"}
  
 
  ;; Tell logseq to use a specific folder in the repo as a default location for notes
