@@ -200,7 +200,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["How to take dummy notes?"]
+ :favorites ["i'm dustin getz, digital citizen" "How to take dummy notes?"]
  :publishing/all-pages-public? true
  :ui/show-brackets? false
 

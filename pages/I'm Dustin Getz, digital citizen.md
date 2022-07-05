@@ -1,5 +1,8 @@
+alias:: Dustin Getz
+
 - I'm an independent software researcher, funded by consulting, with 20 years experience in commercial UI development across all platforms from web to VR. My research interest is in the computational structure of user interfaces.
-- Contact: https://twitter.com/dustingetz (private messages welcome!)
+- ## Contact
+	- https://twitter.com/dustingetz (private messages welcome!)
 - ## Bio
 	- I am the founder of Hyperfiddle, a "UI Notebook" for programmers.
 	- At Hyperfiddle we develop [[Photon]], a full stack Clojure/Script dialect for UI that abstracts over the frontend/backend network separation, with managed client/server datasync built into the language runtime itself.

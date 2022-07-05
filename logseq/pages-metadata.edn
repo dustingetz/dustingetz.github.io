@@ -31,9 +31,9 @@
  {:block/name "done",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
- {:block/name "dustin getz, digital citizen",
-  :block/created-at 1657025862958,
-  :block/updated-at 1657028740431}
+ {:block/name "dustin getz",
+  :block/created-at 1657030303311,
+  :block/updated-at 1657030303311}
  {:block/name "favorites",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
@@ -41,12 +41,15 @@
   "four problems preventing visual flowchart programming from expressing web applications (2022)",
   :block/created-at 1657027000733,
   :block/updated-at 1657028437913}
+ {:block/name "i'm dustin getz, digital citizen",
+  :block/created-at 1657025862958,
+  :block/updated-at 1657030303314}
  {:block/name "in-progress",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
  {:block/name "jul 5th, 2022",
-  :block/created-at 1657025827093,
-  :block/updated-at 1657025827093}
+  :block/created-at 1657029042875,
+  :block/updated-at 1657029042875}
  {:block/name "later",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
