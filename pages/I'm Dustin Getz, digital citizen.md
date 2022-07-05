@@ -1,20 +1,20 @@
-alias:: Dustin Getz
-
-- I'm an independent software researcher, funded by consulting, with 20 years experience in commercial UI development across all platforms from web to VR. My research interest is in the computational structure of user interfaces.
-- ## Contact
+- I'm an independent software researcher, turned entrepreneur.
+- 20 years experience in UI development across all platforms from web to VR
+- My research interest is in the computational structure of user interfaces.
+- ### Contact
 	- https://twitter.com/dustingetz (private messages welcome!)
-- ## Bio
+- ### Bio
 	- I am the founder of Hyperfiddle, a "UI Notebook" for programmers.
 	- At Hyperfiddle we develop [[Photon]], a full stack Clojure/Script dialect for UI that abstracts over the frontend/backend network separation, with managed client/server datasync built into the language runtime itself.
 	- My long-term mission is to help people collaborate at scale with the structure and bandwidth of software. The first step in this is to tame runaway complexity in today’s information systems.
 	- Giving back: I participate in Lindsay T the Lady Engineer's weekly program for female pre-seed founders.
-- ## Essays
+- ### Essays
 	- [[What is the job you that need developers for? (2022)]]
 	- [[Low-code is boilerplate automation, not abstraction (2022)]]
 	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
 	- [[What is the business value of strong composition? (2022)]]
 	- [[Aphorisms for Product Management (2021)]]
-- ## Quotes I love
+- ### Quotes I love
 	- [[On Big Startup Ideas (2017)]]
 	- [[You can’t find secrets without looking for them]]
 	- [[The Curse of Development]]
@@ -22,7 +22,7 @@ alias:: Dustin Getz
 	- [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
 	- [[Coordinating solutions to inadequate eqilibriums]]
 	- [[Continuum of data ownership]]
-- ## Talks
+- ### Talks
 	- 2018 REST FEST – The Quest for a General Hypermedia Client
 	- 2018 Clojadelphia – The structure of CRUD apps
 	- 2017 Scala PHASE – Datomic: functional programming in the database
