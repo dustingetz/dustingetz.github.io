@@ -1,0 +1,6 @@
+- Photon is a full stack Clojure/Script dialect for UI that abstracts over the frontend/backend network separation, with managed client/server datasync built into the language runtime itself.
+	- Photon lets devs use plain function composition to wire up complex full-stack applications without pain, bugs, or thinking about data plumbing _ever_.
+	- Unlike existing web frameworks that treat frontend and backend separately, Hyperfiddle's “distributed dataflow” _language_ reunites frontend and backend into a single coherent reactive expression.
+	- Imagine React.js but full stack, incremental view maintenance all the way from database views to DOM views, as one streaming computation.
+- Technology
+	- We implement the Clojure/Script compiler/analyzer infrastructure to compile Clojure/Script forms to monadic DAGs, distribute the DAG over the client/server distributed system, and then emit reactive dataflow expressions.

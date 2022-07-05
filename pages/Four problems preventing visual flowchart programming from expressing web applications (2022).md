@@ -1,0 +1,9 @@
+- First, some definitions:
+	- **DAG** = Directed Acyclic Graph. DAG is the graph data structure that represents a program with visual flowchart syntax
+	- **AST** = Abstract Syntax Tree. AST is the tree data structure that represents a program with textual hierarchical }}}} syntax. E.g. Javascript, Clojure
+	- **LOC** = Lines Of Code, this is a quick measure of scale and complexity of a codebase
+- The four problems:
+	- **Expressiveness problem** – do closures and higher order functions have equivalents in DAG langs? Are DAG langs and AST langs equivalent in expressive power? Do they have exactly matching syntax elements or are there subtle differences?
+	- **Spaghetti code problem** – Commercial web codebases are 10k – 100k LOC with lots of technical debt, visualizing “spaghetti code” as a DAG may not be practical if it merely reveals that everything is connected to everything
+	- **Logical/physical impedance problem (side-effect problem)** – Web codebases are about 10% pure function logic, 90% imperative effect orchestration (streaming backend, client/server data sync, reactive view, fine-grained dom maintenance, error handling and fault tolerance, edge-cases, performance at scale). DAGs are good at logic but what about effects?
+	- **Density problem** – Even for tiny 50 LOC ASTs, the DAG representation may take far more space
