@@ -1,13 +1,11 @@
 - I'm an independent software researcher, turned entrepreneur.
-- 20 years experience in UI development across all platforms from web to VR
-- My research interest is in the computational structure of user interfaces.
+- I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a "UI Notebook" for programmers.
+	- We exist to let you program your business without drowning in complexity.
+	- We develop Photon, a Clojure/Script dialect for unified full-stack web apps. Photon abstracts over the frontend/backend network separation, with managed client/server datasync built into the language runtime itself.
+- I participate in Lindsay T the Lady Engineer's weekly program for female pre-seed founders.
+- My long-term mission is to help people collaborate better/faster—and think more rigorously—with software. The first step in this is to tame runaway complexity in today’s information systems.
 - ### Contact
 	- https://twitter.com/dustingetz (private messages welcome!)
-- ### Bio
-	- I am the founder of Hyperfiddle, a "UI Notebook" for programmers.
-	- At Hyperfiddle we develop [[Photon]], a full stack Clojure/Script dialect for UI that abstracts over the frontend/backend network separation, with managed client/server datasync built into the language runtime itself.
-	- My long-term mission is to help people collaborate at scale with the structure and bandwidth of software. The first step in this is to tame runaway complexity in today’s information systems.
-	- Giving back: I participate in Lindsay T the Lady Engineer's weekly program for female pre-seed founders.
 - ### Essays
 	- [[What is the job you that need developers for? (2022)]]
 	- [[Low-code is boilerplate automation, not abstraction (2022)]]
@@ -23,6 +21,7 @@
 	- [[Coordinating solutions to inadequate eqilibriums]]
 	- [[Continuum of data ownership]]
 - ### Talks
+	- 2022 Hytradboi – [UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
 	- 2018 REST FEST – The Quest for a General Hypermedia Client
 	- 2018 Clojadelphia – The structure of CRUD apps
 	- 2017 Scala PHASE – Datomic: functional programming in the database

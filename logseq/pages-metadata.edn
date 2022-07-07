@@ -24,7 +24,7 @@
   :block/updated-at 1657031360843}
  {:block/name "continuum of data ownership",
   :block/created-at 1657026394391,
-  :block/updated-at 1657028377206}
+  :block/updated-at 1657033008626}
  {:block/name "coordinating solutions to inadequate eqilibriums",
   :block/created-at 1657026391577,
   :block/updated-at 1657028023613}
@@ -34,9 +34,6 @@
  {:block/name "done",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
- {:block/name "dustin getz",
-  :block/created-at 1657030303311,
-  :block/updated-at 1657030303311}
  {:block/name "favorites",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
@@ -46,7 +43,7 @@
   :block/updated-at 1657028437913}
  {:block/name "i'm dustin getz, digital citizen",
   :block/created-at 1657025862958,
-  :block/updated-at 1657030430026}
+  :block/updated-at 1657032979841}
  {:block/name "in-progress",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
