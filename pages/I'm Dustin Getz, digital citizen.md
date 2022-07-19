@@ -1,7 +1,5 @@
 - I'm a software consultant and independent CS researcher, turned entrepreneur.
 - I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a "UI Notebook" for programmers.
-	- Our "UI modeling language" reduces by 100x the Lines Of Code needed to build a web app, an extraordinary claim that is backed by a computer science breakthrough.
-	- We develop Photon, a Clojure/Script dialect for unified full-stack web apps. Photon abstracts over the frontend/backend network separation, with managed client/server datasync built into the language runtime itself.
 	- Hyperfiddle is a fun/creative take on an enterprise application server, with viral product elements (yes really) – basically we're applying very modern/lightweight product led goto market motions to what is typically a crufty and heavy top-down space.
 - I participate in Lindsay T the Lady Engineer's weekly program for female pre-seed founders.
 - My long-term mission is to help people collaborate better/faster with software. The first step in this is to tame runaway complexity in today’s information systems.
