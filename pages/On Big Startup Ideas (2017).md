@@ -5,4 +5,3 @@
   > **The WWW overshadowed everything else because the problem it was solving - which many people didn't know they had - was more universal than the problems solved by any other technologies that had just entered the market, and its solution was just barely viable enough to solve that problem**. Meanwhile, the tech for many of the other much hotter problems of the time was 15-20 years out; they couldn't actually be solved by the processing power available in 1992. I wonder if there's a similar overlooked-but-universal problem that someone in a garage is working on now, that'll spark a new wave similar to the dot-com boom.
   > 
   > — [nostrademons on HN](https://news.ycombinator.com/item?id=15163103) (2017)
--

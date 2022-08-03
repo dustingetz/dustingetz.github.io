@@ -43,13 +43,19 @@
   :block/updated-at 1657028437913}
  {:block/name "i'm dustin getz, digital citizen",
   :block/created-at 1657025862958,
-  :block/updated-at 1657032979841}
+  :block/updated-at 1658248918605}
  {:block/name "in-progress",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
  {:block/name "jul 10th, 2022",
   :block/created-at 1657426264411,
   :block/updated-at 1657426264411}
+ {:block/name "jul 19th, 2022",
+  :block/created-at 1658237518781,
+  :block/updated-at 1658237518781}
+ {:block/name "jul 20th, 2022",
+  :block/created-at 1658289657119,
+  :block/updated-at 1658289657119}
  {:block/name "jul 5th, 2022",
   :block/created-at 1657029042875,
   :block/updated-at 1657029042875}
