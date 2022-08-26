@@ -1,10 +1,10 @@
-- I'm a software consultant and independent CS researcher, turned entrepreneur.
-- I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a "UI Notebook" for programmers – it's a "UI modeling language" for CRUD apps wrapped up into a notebook. Not so secretly, we're actually a new programming paradigm based on functional programming, using notebooks/PLG as a distribution strategy.
-- I participate in Lindsay T the Lady Engineer's weekly program for female pre-seed founders.
-- My long-term mission is to help people collaborate better/faster with software. The first step in this is to tame runaway complexity in today’s information systems.
+- I'm an independent CS researcher, turned entrepreneur.
+- I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a "UI modeling language" for CRUD apps wrapped up into a notebook.
+- Our long-term mission is to help people collaborate better/faster with software. The first step in this is to tame runaway complexity in today’s information systems.
 - ### Contact
 	- https://twitter.com/dustingetz (DMs welcome!)
 - ### Essays
+	- [[Signals vs Streams]]
 	- [[What is the job you that need developers for? (2022)]]
 	- [[Low-code is boilerplate automation, not abstraction (2022)]]
 	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]

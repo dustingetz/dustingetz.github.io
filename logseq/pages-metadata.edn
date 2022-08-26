@@ -4,6 +4,30 @@
  {:block/name "aphorisms for product management (2021)",
   :block/created-at 1657027030676,
   :block/updated-at 1657028443889}
+ {:block/name "aug 14th, 2022",
+  :block/created-at 1660481133365,
+  :block/updated-at 1660481133365}
+ {:block/name "aug 22nd, 2022",
+  :block/created-at 1661197914732,
+  :block/updated-at 1661197914732}
+ {:block/name "aug 3rd, 2022",
+  :block/created-at 1659530237266,
+  :block/updated-at 1659530237266}
+ {:block/name "aug 4th, 2022",
+  :block/created-at 1659585601103,
+  :block/updated-at 1659585601103}
+ {:block/name "aug 5th, 2022",
+  :block/created-at 1659672021323,
+  :block/updated-at 1659672021323}
+ {:block/name "aug 6th, 2022",
+  :block/created-at 1659758445490,
+  :block/updated-at 1659758445490}
+ {:block/name "aug 7th, 2022",
+  :block/created-at 1659844843532,
+  :block/updated-at 1659844843532}
+ {:block/name "aug 8th, 2022",
+  :block/created-at 1659931235356,
+  :block/updated-at 1659931235356}
  {:block/name "b",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
@@ -34,6 +58,12 @@
  {:block/name "done",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
+ {:block/name "drafts",
+  :block/created-at 1660481146565,
+  :block/updated-at 1660482657874}
+ {:block/name "dustin getz",
+  :block/created-at 1660481352746,
+  :block/updated-at 1660481352746}
  {:block/name "favorites",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
@@ -41,12 +71,21 @@
   "four problems preventing visual flowchart programming from expressing web applications (2022)",
   :block/created-at 1657027000733,
   :block/updated-at 1657028437913}
+ {:block/name "functional core imperative shell",
+  :block/created-at 1660481175766,
+  :block/updated-at 1660481953624}
  {:block/name "i'm dustin getz, digital citizen",
   :block/created-at 1657025862958,
-  :block/updated-at 1658248918605}
+  :block/updated-at 1659531350648}
  {:block/name "in-progress",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
+ {:block/name "innovator's dilemma",
+  :block/created-at 1659708246703,
+  :block/updated-at 1659708246703}
+ {:block/name "innovators' dilemma",
+  :block/created-at 1660481168319,
+  :block/updated-at 1660481168319}
  {:block/name "jul 10th, 2022",
   :block/created-at 1657426264411,
   :block/updated-at 1657426264411}
@@ -75,6 +114,9 @@
   "low-code is boilerplate automation, not abstraction (2022)",
   :block/created-at 1657026819803,
   :block/updated-at 1657028430234}
+ {:block/name "martin casado",
+  :block/created-at 1660481225719,
+  :block/updated-at 1660481225719}
  {:block/name "now",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
@@ -84,16 +126,22 @@
  {:block/name "photon",
   :block/created-at 1657028207793,
   :block/updated-at 1657028307981}
+ {:block/name "signals vs streams",
+  :block/created-at 1659531350647,
+  :block/updated-at 1659531393837}
  {:block/name
   "sufficiently powerful optimization of any known target destroys all value",
   :block/created-at 1657026388617,
   :block/updated-at 1657027960616}
  {:block/name "the curse of development",
   :block/created-at 1657026382329,
-  :block/updated-at 1657027666403}
+  :block/updated-at 1659530587271}
  {:block/name "todo",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
+ {:block/name "tomer moran",
+  :block/created-at 1660481716845,
+  :block/updated-at 1660481716845}
  {:block/name "wait",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
