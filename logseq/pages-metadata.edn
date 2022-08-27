@@ -13,6 +13,9 @@
  {:block/name "aug 26th, 2022",
   :block/created-at 1661535296091,
   :block/updated-at 1661535296091}
+ {:block/name "aug 27th, 2022",
+  :block/created-at 1661600920368,
+  :block/updated-at 1661600920368}
  {:block/name "aug 3rd, 2022",
   :block/created-at 1659530237266,
   :block/updated-at 1659530237266}
@@ -54,7 +57,7 @@
   :block/updated-at 1657033008626}
  {:block/name "coordinating solutions to inadequate eqilibriums",
   :block/created-at 1657026391577,
-  :block/updated-at 1657028023613}
+  :block/updated-at 1661601322413}
  {:block/name "doing",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
@@ -79,7 +82,7 @@
   :block/updated-at 1660481953624}
  {:block/name "i'm dustin getz, digital citizen",
   :block/created-at 1657025862958,
-  :block/updated-at 1661535675110}
+  :block/updated-at 1661601763929}
  {:block/name "in-progress",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
@@ -138,7 +141,7 @@
   :block/updated-at 1657027960616}
  {:block/name "the curse of development",
   :block/created-at 1657026382329,
-  :block/updated-at 1661535522855}
+  :block/updated-at 1661601245297}
  {:block/name "todo",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
