@@ -1,3 +1,5 @@
+public:: true
+
 - Low-code application development is supposed to make software development easier, but the reality is that it turns into a tangled mess of half-baked components.
 - You understand your data model and how functionality maps to it. You understand databases and logical functions.
 - Why does it have to be so complicated?

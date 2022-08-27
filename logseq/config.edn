@@ -203,7 +203,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  :favorites ["Drafts" "i'm dustin getz, digital citizen" "How to take dummy notes?"]
- :publishing/all-pages-public? true
+ :publishing/all-pages-public? false
  :ui/show-brackets? false
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)

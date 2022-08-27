@@ -1,3 +1,5 @@
+public:: true
+
 - CHIP MORNINGSTAR, http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/
 	- "A new idea or a new plan or a new technique is never really understood when you just explain it. People will often think they understand, and they’ll say they understand, but then their actions show that it just ain’t so.
 	- "Years ago, one of the things I did was travel around the country trying to evangelize the idea of hypertext. People loved it, but nobody got it. Nobody. We provided lots of explanation. We had pictures. We had scenarios, little stories that told what it would be like. **People would ask astonishing questions, like “who’s going to pay to make all those links?” or “why would anyone want to put documents online?”** Alas, many things really must be experienced to be understood. We didn’t have much of an experience to deliver to them though — after all, the whole point of all this evangelizing was to get people to give us money to pay for developing the software in the first place! **But someone who’s spent even 10 minutes using the Web would never think to ask some of the questions we got asked.**

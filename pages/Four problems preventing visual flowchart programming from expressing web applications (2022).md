@@ -1,3 +1,5 @@
+public:: true
+
 - First, some definitions:
 	- **DAG** = Directed Acyclic Graph. DAG is the graph data structure that represents a program with visual flowchart syntax
 	- **AST** = Abstract Syntax Tree. AST is the tree data structure that represents a program with textual hierarchical }}}} syntax. E.g. Javascript, Clojure

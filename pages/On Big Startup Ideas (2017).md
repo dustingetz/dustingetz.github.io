@@ -1,3 +1,5 @@
+public:: true
+
 - > NOSTRADEMONS: We seem to be in an interesting time where everyone is casting around looking for the next "big" idea, regardless of whether it works, and as a result the only way to do useful "small" ideas that work is to fund them yourself or get ordinary, non-import people to help fund them (i.e. crowdfunding or ICOs). All the attention is on flying cars, self-driving cars, killer robots, alternative currencies, artificial intelligence, 600 mph vacuum transportation, and missions to Mars.
   > 
   > The last time I can think of when the tech landscape looked like this was the early 90s, when everybody was hung up on artificial intelligence, pocket computing, handwriting recognition, voice recognition, WebTV, 3D graphics, and virtual reality. We ended up getting many of those, 15 years later, but **the real huge story of the decade was the WWW, which was really unimpressive when it first came out** (I remember comparing it unfavorably to Gopher in 1993; Gopher at least was semi-organized).

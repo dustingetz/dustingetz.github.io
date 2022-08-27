@@ -1,3 +1,5 @@
+public:: true
+
 - Anonymous (2018):
 	- "There's a long continuum of data ownership:
 		- evilcorp has your data and you can't see it

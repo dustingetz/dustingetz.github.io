@@ -1,3 +1,4 @@
+public:: true
 title:: What is the business value of strong composition? (2022)
 
 - For a long time I thought Hyperfiddle's key benefit was strong composition, but I was confused.

@@ -1,3 +1,5 @@
+public:: true
+
 - I'm an independent CS researcher, turned entrepreneur.
 - I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a "UI modeling language" for CRUD apps wrapped up into a notebook.
 - Our long-term mission is to help people collaborate better/faster with software. The first step in this is to tame runaway complexity in today’s information systems.

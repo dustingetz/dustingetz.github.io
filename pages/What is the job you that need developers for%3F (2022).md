@@ -1,3 +1,4 @@
+public:: true
 title:: What is the job you that need developers for? (2022)
 
 - To answer this we need to follow the money. Who is paying developers, why, and where does the money come from? Then we can see what developers are really being paid to do.
