@@ -6,6 +6,7 @@ public:: true
 - ### Contact
 	- https://twitter.com/dustingetz (DMs welcome!)
 - ### Essays
+	- [[On abstraction, and functions with long implementations (2022)]]
 	- [[What is the job you that need developers for? (2022)]]
 	- [[Low-code is boilerplate automation, not abstraction (2022)]]
 	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]

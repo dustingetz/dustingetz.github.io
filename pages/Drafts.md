@@ -2,3 +2,4 @@
 - [[Functional Core Imperative Shell]]
 - [[Photon]]
 - [[Signals vs Streams]]
+- [[CRUD/UI Infra Maxi]]

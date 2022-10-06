@@ -16,6 +16,12 @@
  {:block/name "aug 27th, 2022",
   :block/created-at 1661600920368,
   :block/updated-at 1661600920368}
+ {:block/name "aug 28th, 2022",
+  :block/created-at 1661659209224,
+  :block/updated-at 1661659209224}
+ {:block/name "aug 29th, 2022",
+  :block/created-at 1661745609720,
+  :block/updated-at 1661745609720}
  {:block/name "aug 3rd, 2022",
   :block/created-at 1659530237266,
   :block/updated-at 1659530237266}
@@ -58,6 +64,12 @@
  {:block/name "coordinating solutions to inadequate eqilibriums",
   :block/created-at 1657026391577,
   :block/updated-at 1661601322413}
+ {:block/name "crud",
+  :block/created-at 1662467991914,
+  :block/updated-at 1662467991914}
+ {:block/name "crud/ui infra maxi",
+  :block/created-at 1662467991913,
+  :block/updated-at 1662468051938}
  {:block/name "doing",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
@@ -66,7 +78,7 @@
   :block/updated-at 1656968461022}
  {:block/name "drafts",
   :block/created-at 1660481146565,
-  :block/updated-at 1660482657874}
+  :block/updated-at 1662467991915}
  {:block/name "dustin getz",
   :block/created-at 1660481352746,
   :block/updated-at 1660481352746}
@@ -132,6 +144,9 @@
  {:block/name "photon",
   :block/created-at 1657028207793,
   :block/updated-at 1657028307981}
+ {:block/name "sep 6th, 2022",
+  :block/created-at 1662463986520,
+  :block/updated-at 1662463986520}
  {:block/name "signals vs streams",
   :block/created-at 1659531350647,
   :block/updated-at 1659531393837}
