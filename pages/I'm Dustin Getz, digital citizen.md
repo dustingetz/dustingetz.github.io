@@ -1,8 +1,9 @@
 public:: true
 
+- **I believe in excellence**, and I believe that many others do to.
 - I'm an independent CS researcher, turned entrepreneur.
-- I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a "UI modeling language" for CRUD apps wrapped up into a notebook.
-- Our long-term mission is to help people collaborate better/faster with software. The first step in this is to tame runaway complexity in today’s information systems.
+- I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a CRUD app notation and modeling language. To make Hyperfiddle powerful enough — and the bar is *uncompromising power* — we first had to solve the client/server data sync problem. So we also built Photon, a network-transparent programming language for full-stack web application development with compiler-managed reactive data sync.
+- My long-term mission is to help people collaborate better/faster with software. The first step in this is to tame runaway complexity in today’s information systems.
 - ### Contact
 	- https://twitter.com/dustingetz (DMs welcome!)
 - ### Essays
