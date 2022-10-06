@@ -1,3 +1,4 @@
+author:: Dustin Getz, Founder [Hyperfiddle](https://www.hyperfiddle.net/) a notation for CRUD apps
 public:: true
 
 - In mathematics, many functions are *universal*
