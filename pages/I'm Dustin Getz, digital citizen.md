@@ -1,19 +1,19 @@
-public:: true
-
 - **I believe in excellence**, and I believe that many others do to.
-- I'm an independent CS researcher, turned entrepreneur.
-- I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a CRUD app notation and modeling language. To make Hyperfiddle powerful enough — and the bar is *uncompromising power* — we first had to solve the client/server data sync problem. So we also built Photon, a network-transparent programming language for full-stack web application development with compiler-managed reactive data sync.
-- My long-term mission is to help people collaborate better/faster with software. The first step in this is to tame runaway complexity in today’s information systems.
-- ### Contact
-	- https://twitter.com/dustingetz (DMs welcome!)
-- ### Essays
+- My long-term mission is to help people collaborate better/faster with software. The first step in this is to tame runaway complexity in today’s software information systems.
+- ## About
+	- I'm an independent CS researcher, turned entrepreneur.
+	- I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a CRUD app notation and modeling language. To make Hyperfiddle powerful enough — and the bar is *uncompromising power* — we first had to solve the client/server data sync problem. So we also built Photon, a network-transparent programming language for full-stack web application development with compiler-managed reactive data sync.
+- ## Contact
+	- https://twitter.com/dustingetz (DMs welcome! and much preferred over email)
+- ## Essays
 	- [[On abstraction, and functions with long implementations (2022)]]
 	- [[What is the job you that need developers for? (2022)]]
 	- [[Low-code is boilerplate automation, not abstraction (2022)]]
 	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
 	- [[What is the business value of strong composition? (2022)]]
 	- [[Aphorisms for Product Management (2021)]]
-- ### Quotes I love
+	- [[Six Types of Information Systems (2022)]]
+- ## Quotes I love
 	- [[On Big Startup Ideas (2017)]]
 	- [[You can’t find secrets without looking for them]]
 	- [[The Curse of Development]]
@@ -21,7 +21,7 @@ public:: true
 	- [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
 	- [[Coordinating solutions to inadequate eqilibriums]]
 	- [[Continuum of data ownership]]
-- ### Talks
+- ## Talks
 	- 2022 Hytradboi – [UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
 	- 2018 REST FEST – The Quest for a General Hypermedia Client
 	- 2018 Clojadelphia – The structure of CRUD apps
@@ -40,3 +40,4 @@ public:: true
 	- 2013 Philly ETE – Livecoding a webapp in both Clojure and Scala, with Jason Feingold
 	- 2012 Strange Loop – Monads in python
 	- 2011 Avoid callback hell: a practical introduction to continuations
+public:: true
