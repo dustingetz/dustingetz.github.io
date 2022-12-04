@@ -1,4 +1,7 @@
-[{:block/name
+[{:block/name "3)",
+  :block/created-at 1666644065150,
+  :block/updated-at 1666644065150}
+ {:block/name
   "4 categories of complexity in software information systems",
   :block/created-at 1665246706947,
   :block/updated-at 1665246717785}
@@ -81,6 +84,9 @@
  {:block/name "crud/ui infra maxi",
   :block/created-at 1662467991913,
   :block/updated-at 1662468051938}
+ {:block/name "dec 4th, 2022",
+  :block/created-at 1670163042744,
+  :block/updated-at 1670163042744}
  {:block/name "doing",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
@@ -99,13 +105,13 @@
  {:block/name
   "four problems preventing visual flowchart programming from expressing web applications (2022)",
   :block/created-at 1657027000733,
-  :block/updated-at 1657028437913}
+  :block/updated-at 1666643939229}
  {:block/name "functional core imperative shell",
   :block/created-at 1660481175766,
   :block/updated-at 1660481953624}
  {:block/name "i'm dustin getz, digital citizen",
   :block/created-at 1657025862958,
-  :block/updated-at 1665322976028}
+  :block/updated-at 1666644100896}
  {:block/name "in-progress",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
@@ -149,9 +155,39 @@
  {:block/name "nine layers of software development (2022)",
   :block/created-at 1665246746881,
   :block/updated-at 1665246746881}
+ {:block/name "nov 5th, 2022",
+  :block/created-at 1667674314493,
+  :block/updated-at 1667674314493}
  {:block/name "now",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
+ {:block/name "oct 10th, 2022",
+  :block/created-at 1665374442700,
+  :block/updated-at 1665374442700}
+ {:block/name "oct 11th, 2022",
+  :block/created-at 1665460849032,
+  :block/updated-at 1665460849032}
+ {:block/name "oct 12th, 2022",
+  :block/created-at 1665547213494,
+  :block/updated-at 1665547213494}
+ {:block/name "oct 13th, 2022",
+  :block/created-at 1665633651857,
+  :block/updated-at 1665633651857}
+ {:block/name "oct 14th, 2022",
+  :block/created-at 1665720013108,
+  :block/updated-at 1665720013108}
+ {:block/name "oct 15th, 2022",
+  :block/created-at 1665806459700,
+  :block/updated-at 1665806459700}
+ {:block/name "oct 16th, 2022",
+  :block/created-at 1665892856628,
+  :block/updated-at 1665892856628}
+ {:block/name "oct 17th, 2022",
+  :block/created-at 1665979256617,
+  :block/updated-at 1665979256617}
+ {:block/name "oct 24th, 2022",
+  :block/created-at 1666643886783,
+  :block/updated-at 1666643886783}
  {:block/name "oct 6th, 2022",
   :block/created-at 1665080240914,
   :block/updated-at 1665080240914}
@@ -164,7 +200,7 @@
  {:block/name
   "on abstraction, and functions with long implementations (2022)",
   :block/created-at 1665080272598,
-  :block/updated-at 1665081586550}
+  :block/updated-at 1666644032568}
  {:block/name "on big startup ideas (2017)",
   :block/created-at 1657026217713,
   :block/updated-at 1657026359463}
@@ -186,7 +222,7 @@
   :block/updated-at 1657027960616}
  {:block/name "the curse of development",
   :block/created-at 1657026382329,
-  :block/updated-at 1661601245297}
+  :block/updated-at 1666644007501}
  {:block/name "todo",
   :block/created-at 1656968461022,
   :block/updated-at 1656968461022}
@@ -205,7 +241,7 @@
   :block/updated-at 1657028436064}
  {:block/name "what is the job you that need developers for? (2022)",
   :block/created-at 1657026440906,
-  :block/updated-at 1657028623266}
+  :block/updated-at 1666644071111}
  {:block/name "you can't tell people anything (2004)",
   :block/created-at 1657026385018,
   :block/updated-at 1657027851189}

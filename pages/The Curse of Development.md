@@ -1,6 +1,4 @@
-public:: true
-
-- > The depth of any transaction is limited by the depth of the shallower party. If the situational developmental gap between two people is sufficiently small, the more evolved person will systematically LOSE.
+- > The depth of any transaction is limited by the depth of the **shallower party**. If the situational developmental gap between two people is sufficiently small, **the more evolved person will systematically LOSE**.
   > 
   > Three forces in play: 
   > ㅤ
@@ -13,3 +11,4 @@ public:: true
   > Here is a trick to help you remember all this: it is always hard for a student to teach a teacher, even if the student is studying a subject that is more advanced than the one the teacher teaches. The content doesn’t matter. A rule of thumb in the teaching profession states that to be an effective teacher at a given level, you need to have studied five years beyond that level.
   > 
   > — Venkatesh Rao, [The Gervais Principle III: The Curse of Development](https://www.ribbonfarm.com/2010/04/14/the-gervais-principle-iii-the-curse-of-development/) (2010)
+public:: true

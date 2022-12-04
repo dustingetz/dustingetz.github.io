@@ -1,5 +1,5 @@
 author:: Dustin Getz, Founder [Hyperfiddle](https://www.hyperfiddle.net/) a notation for CRUD apps
-public:: true
+public:: false
 
 - In mathematics, many functions are *universal*
   universal = aliens from our same universe also have this function
