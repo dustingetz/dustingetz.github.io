@@ -2,40 +2,37 @@
 - I work on Photon, a network-streamed programming language for building user interfaces.
 - My long-term mission is to help people collaborate better/faster by realizing the full potential of software, and the first step in this is to tame runaway complexity in today’s information systems.
 -
-- ## Contact
-	- https://twitter.com/dustingetz (DMs welcome! and much preferred over email)
+- Contact: https://twitter.com/dustingetz (DMs welcome! and much preferred over email)
+-
 - ## Essays
 	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
-	- [[What is the job you that need developers for? (2022)]]
-	- [[Low-code is boilerplate automation, not abstraction (2022)]]
-	- [[What is the business value of strong composition? (2022)]]
 	- [[Aphorisms for Product Management (2021)]]
-	- [[Six Types of Information Systems (2022)]]
+-
 - ## Quotes I love
-	- [[On Big Startup Ideas (2017)]]
+	- [[You Can't Tell People Anything (2004)]]
 	- [[You can’t find secrets without looking for them]]
 	- [[The Curse of Development]]
-	- [[You Can't Tell People Anything (2004)]]
 	- [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
+	- [[On Big Startup Ideas (2017)]]
 	- [[Coordinating solutions to inadequate eqilibriums]]
-	- [[Continuum of data ownership]]
-- ## Talks
+-
+- ## Tech Talks
 	- 2022 Hytradboi – [UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
 	- 2018 REST FEST – The Quest for a General Hypermedia Client
 	- 2018 Clojadelphia – The structure of CRUD apps
 	- 2017 Scala PHASE – Datomic: functional programming in the database
-	- 2017 Scala PHASE – Hyperfiddle – a Hypermedia Function
+	- 2017 Scala PHASE – Hyperfiddle: a Hypermedia Function
 	- [2017 ClojureNYC – Datomic, and the failures of REST, hypermedia and ORM](https://s3.amazonaws.com/www.dustingetz.com/Getz+2017+Datomic%2C+ORM%2C+Hypermedia+-+ClojureNYC.pdf)
 	- [2016 LibertyJS – Composable UI](https://www.youtube.com/watch?v=6888V9YsObM)
 	- 2016 LibertyJS – Intro to ClojureScript, coding workshop
-	- 2016 Clojadelphia – Intro to ClojureScript, coding workshop
 	- [2016 LambdaConf – What would happen if REST were immutable?](https://docs.google.com/document/d/1hb9qB_d9jlDUpgTSBcFELGhKuWVecVzgGCcOeR9UueE/edit#heading=h.up2n5n7x3shf)
 	- 2015 Clojadelphia – Eliminating I/O concerns with immutability
 	- 2015 Scala PHASE – Rethinking webapp best practices around immutability
 	- [2015 DatomicConf – What Datomic does to REST](http://dustingetzcom.hyperfiddle.com/:what-datomic-does-to-rest/)
 	- 2014 Philly JS – Workshop: React.js and Functional Javascript, with Daniel Miladinov
 	- [2014 QCon NYC – Functional Programming on the Front-end with React.js](https://www.infoq.com/presentations/fp-facebook-react)
-	- 2013 Philly ETE – Livecoding a webapp in both Clojure and Scala, with Jason Feingold
-	- 2012 Strange Loop – Monads in python
+	- 2013 Philly ETE – Livecoding a webapp in both Clojure and Scala
+	- 2012 Strange Loop – Monads in Python
 	- 2011 Avoid callback hell: a practical introduction to continuations
+-
 public:: true

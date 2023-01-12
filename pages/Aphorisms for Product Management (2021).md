@@ -1,33 +1,30 @@
-public:: true
-
-## Business
+- Business
 	- Assumptions get you killed
-	- Focus or die
+	- Law of Focus (Focus or die)
 	- “Focus is about saying no” — Steve Jobs
 	- Startup = Growth
-	- ROI is measured per unit time
+	- Time is the denominator; ROI is measured per unit time
 	- Companies are valued at a discount to sum of future cashflows
-	- Risk requires Accountability
+	- Intuition is the opposite of reason (intuition = the power or faculty of attaining to direct knowledge or cognition *without evident rational thought and inference*)
 	- One key to success is establishing clear lines of blame
-	- Establish KPIs Today (you make what you measure)
+	- You make what you measure
 	- Sufficiently Powerful Optimization Of Any Known Target Destroys All Value
 	- Validated Learning requires data
 	- “Never Lose Money” — Warren Buffet
-## Product Management
+- Product Management
+	- WIP is the silent killer — Phoenix Project
+	- Gaining Control of WIP: The Operational Freeze
 	- Engineering is done with numbers. Analysis without numbers is only an opinion
-	- intuition and reason are opposites (it can be counterintuitive)
 	- “distinction between real and fake startup progress”
 	- MVP = build-measure-learn feedback loop
 	- The Build Trap / “If you build it they will come”
 	- Throughline: the thinnest complete end to end slice through your product that proves you understand all the work
 	- Vision – What does success look like
 	- Lindy's Law – the longer things take, the longer they’re going to take
-	- WIP is the silent killer — Phoenix Project
-	- Gaining Control of WIP: The Operational Freeze
 	- Wait times depend on resource utilization levels
 		- 50% Busy / 50% Idle = 1 unit of delay
 		- 99% Busy / 1% Idle =  99 units of delay
-## Org dynamics
+- ## Org dynamics
 	- It is difficult to get a man to understand something when his salary depends upon his not understanding it.
 	- You Can’t Tell People Anything (you have to show them)
 	- Conway’s Law – Don’t ship the org chart
@@ -35,4 +32,6 @@ public:: true
 	- Two Pizza Rule
 	- Principal Agent Problem
 	- Groups never admit failure, you get a schism instead
-	- Wiio’s Laws – ​​"In mass communication, the important thing is not how things are but how they seem to be." — https://en.wikipedia.org/wiki/Wiio%27s_laws
+	- [Wiio’s Laws](https://en.wikipedia.org/wiki/Wiio%27s_laws) – Communication usually fails, except by accident. The more we communicate, the worse we succeed.
+-
+public:: true

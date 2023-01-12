@@ -1,7 +1,5 @@
-public:: true
-
 - Scott Alexander, [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) (2014)
-	- Like the rats, who gradually lose all values except sheer competition, so companies in an economic environment of sufficiently intense competition are forced to abandon all values except optimizing-for-profit or else be outcompeted by companies that optimized for profit better and so can sell the same service at a lower price. From a god’s-eye-view, we can contrive a friendly industry where every company pays its workers a living wage. From within the system, there’s no way to enact it.
+	- Like the rats, who gradually lose all values except sheer competition, so **companies in an economic environment of sufficiently intense competition are forced to abandon all values except optimizing-for-profit or else be outcompeted by companies that optimized for profit better** and so can sell the same service at a lower price. From a god’s-eye-view, we can contrive a friendly industry where every company pays its workers a living wage. From within the system, there’s no way to enact it.
 	- E.g. the Two-Income Trap. It theorized that sufficiently intense competition for suburban houses in good school districts meant that people had to throw away lots of other values – time at home with their children, financial security – to optimize for house-buying-ability or else be consigned to the ghetto.
 	- In some competition optimizing for X, the opportunity arises to throw some other value under the bus for improved X. Those who take it prosper. Those who don’t take it die out. Eventually, everyone’s relative status is about the same as before, but everyone’s absolute status is worse than before. The process continues until all other values that can be traded-off have been.
 - TheZvi, [Does Big Business Hate Your Family?](https://thezvi.wordpress.com/2019/12/31/does-big-business-hate-your-family/) (2019)
@@ -11,4 +9,5 @@ public:: true
 	- Perfect competition destroys all the producer surplus. Super-perfect competition destroys more than all producer surplus. The saving grace of free ability to exit has been removed.
 	- Producers in both cases also have no slack or freedom. They must follow exactly the ‘optimal’ short-term strategies. Anything else is sacrificed.
 	- **Worlds given fully over to perfect or super-perfect competition, by default, lose all value to those within them.**
-- [DUSTIN: I think, in the next 50 years, the digitization of everything will cause optimization pressure to steadily increase, resulting in an "unstoppable force meets immovable object" situation. Historically this results in societal collapse / war / "black swan" events.]
+-
+public:: true
