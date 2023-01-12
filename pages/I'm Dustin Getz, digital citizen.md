@@ -4,17 +4,28 @@
 -
 - Contact: https://twitter.com/dustingetz (DMs welcome! and much preferred over email)
 -
-- Essays
-	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
-	- [[Aphorisms for Product Management (2021)]]
--
-- Quotes I love
-	- [[You Can't Tell People Anything (2004)]]
-	- [[You can’t find secrets without looking for them]]
-	- [[The Curse of Development]]
-	- [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
+- Aphorisms
+	- Opportunity is the space between your competitors' assumptions
+	- Intuition is the opposite of reason
+	- Engineering is done with numbers. Analysis without numbers is just an opinion
+	- Man errs because his will affirms or negates ideas that are not clear or distinct — Descartes
+	- Impossible is just a big word thrown around by small men who find it easier to live in the world they’ve been given than to explore the power they have to change it. — Muhammad Ali
+	- [[You can’t find secrets without looking for them — Peter Theil]]
 	- [[On Big Startup Ideas (2017)]]
+	- The goal is not to avoid mistakes; the goal is to achieve uncorrelated levels of excellence in some dimension — Nat Friedman
+	- [[You Can't Tell People Anything (you have to show them)]]
+	- [[The depth of any transaction is limited by the depth of the shallower party]]
+	- Being understood is too big an ask because it requires controlling the other person's perspective. Try instead to communicate
+	- Communication usually fails, except by accident
+	- Again, define your terms, or we shall never understand one another — Voltaire
+	- Everyone has an angle. If you don't see it, you're the sucker
+	- Groups never admit failure, you get a schism instead
+	- Everything around you that you call life was made up by people that were no smarter than you — Steve Jobs
+	- Civilization advances by extending the number of operations we can perform without thinking about them
+	- If a system is to serve the creative spirit, it must be entirely comprehensible to a single individual. Human potential manifests itself in individuals. — Dan Ingalls
+	- [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
 	- [[Coordinating solutions to inadequate eqilibriums]]
+	- [[On Big Startup Ideas (2017)]]
 -
 - Tech Talks
 	- 2022 Hytradboi – [UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
