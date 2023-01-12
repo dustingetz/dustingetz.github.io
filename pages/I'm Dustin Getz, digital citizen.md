@@ -1,14 +1,14 @@
 - I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a UI notation and modeling language.
 - I work on Photon, a network-streamed programming language for building user interfaces.
-- My long-term mission is to help people collaborate better/faster by realizing the full potential of software, and the first step in this is to tame runaway complexity in today’s information systems.
+- I research the structural computation of software applications and user interfaces, in an attempt to tame runaway complexity in our information systems today.
 -
 - Contact: https://twitter.com/dustingetz (DMs welcome! and much preferred over email)
 -
-- ## Essays
+- Essays
 	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
 	- [[Aphorisms for Product Management (2021)]]
 -
-- ## Quotes I love
+- Quotes I love
 	- [[You Can't Tell People Anything (2004)]]
 	- [[You can’t find secrets without looking for them]]
 	- [[The Curse of Development]]
@@ -16,7 +16,7 @@
 	- [[On Big Startup Ideas (2017)]]
 	- [[Coordinating solutions to inadequate eqilibriums]]
 -
-- ## Tech Talks
+- Tech Talks
 	- 2022 Hytradboi – [UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
 	- 2018 REST FEST – The Quest for a General Hypermedia Client
 	- 2018 Clojadelphia – The structure of CRUD apps
