@@ -19,8 +19,8 @@
 	- Everyone has an angle. If you don't see it, you're the sucker
 	- Impossible is just a big word thrown around by small men who find it easier to live in the world they’ve been given than to explore the power they have to change it. — Muhammad Ali
 	- Everything around you that you call life was made up by people that were no smarter than you — Steve Jobs
-	- Civilization advances by extending the number of operations we can perform without thinking about them
 	- If a system is to serve the creative spirit, it must be entirely comprehensible to a single individual. Human potential manifests itself in individuals. — Dan Ingalls
+	- Civilization advances by extending the number of operations we can perform without thinking about them
 	- [[On Big Startup Ideas (2017)]]
 	- [[You can’t find secrets without looking for them — Peter Theil]]
 	- [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
