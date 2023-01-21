@@ -49,4 +49,7 @@
 	- 2012 Strange Loop – Monads in Python
 	- 2011 Avoid callback hell: a practical introduction to continuations
 -
+- Frameworks
+	- [[Apex strategy framework for startup success]]
+-
 public:: true
