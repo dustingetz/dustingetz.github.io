@@ -1,0 +1,2 @@
+- Valuation = a measure of how much uncertainty has been removed from the business
+- Uncertainty = fog of war – blind spots, risks, unknowns
