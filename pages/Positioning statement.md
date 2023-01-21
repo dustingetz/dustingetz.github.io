@@ -1,3 +1,5 @@
+public:: true
+
 - For (target customer)
   Who (statement of need or opportunity)
   (Product name) is a (product category)
@@ -29,4 +31,3 @@
 	  That lets you search rather than sort
 	  Unlike other webmail providers -- Hotmail/Yahoo
 	  Gmail gives you 1 GB of storage so you never have to delete a message again
-- public:: true

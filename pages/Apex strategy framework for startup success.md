@@ -1,3 +1,5 @@
+public:: true
+
 - Why
 	- People are good at imagining a world over long period of time; but it's very hard to map that into a sequence of steps. This framework helps you break a mission down into the next achievable chunk and actionable sequence of next steps.
 	- this model scales to 10,000 employees, $20B market cap
@@ -78,4 +80,3 @@
 			- Define a GTM that gets to Apex strategy
 			- What is the GTM strategy, how do you know it's working, what have you learned about it at the level of GTM strategy?
 				- E.g "fusion teams are never gonna work"
-- public:: true

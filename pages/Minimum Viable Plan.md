@@ -1,3 +1,5 @@
+public:: true
+
 - A minimum viable plan must answer the following questions:
 	- (1) what is the risk mitigation plan for achieving the goals?
 		- What's the risk
@@ -11,4 +13,3 @@
 	- much of the time the way you invalidate the plan is by establishing some sort of metrics that you can judge success or failure by. that tends to fall out of this exercise.
 		- e.g. I know the goals are wrong if I can't get Rosie to be satisified if we can't withdraw our paid services.
 - Warning: CEO is his own lieutenant wrt GTM, so "goal invalidation" is a tough mental exercise.
-- public:: true
