@@ -1,15 +1,18 @@
-public:: true
-
 - A minimum viable plan must answer the following questions:
+  title:: Minimum Viable Plan = Risk Mitigation + Goal Invalidation
 	- (1) what is the risk mitigation plan for achieving the goals?
 		- What's the risk
 		- How are we managing the risk
 	- (2) "Goal Invalidation"
 		- What metrics will we use to show that the plan is WRONG?
-- we care more about knowing is the plan correct, so we want metrics to track if the plan itself is wrong.
-- which is different than execution against the plan. tracking execution against the plan assumes the plan is correct. "assumptions are what gets you killed"
+- we care most about knowing if the plan is correct
+	- so we want metrics to track if the **plan itself is wrong**
+	- which is different than execution against the plan
+	- tracking execution against the plan assumes the plan is correct
+	- "assumptions are what gets you killed"
 - we want the lieutenants to come up with ways to demonstrate that these are the wrong goals to have.
 	- force them to break the plan so that it strengthens the plan
 	- much of the time the way you invalidate the plan is by establishing some sort of metrics that you can judge success or failure by. that tends to fall out of this exercise.
-		- e.g. I know the goals are wrong if I can't get Rosie to be satisified if we can't withdraw our paid services.
+		- e.g. I know the goals are wrong if I can't get Customer Pilot to be satisfied if we can't withdraw our paid services.
 - Warning: CEO is his own lieutenant wrt GTM, so "goal invalidation" is a tough mental exercise.
+public:: true

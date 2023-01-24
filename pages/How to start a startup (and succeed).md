@@ -1,0 +1,3 @@
+- [[Positioning statement]]
+- [[Apex strategy framework for startup work alignment]]
+- [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]

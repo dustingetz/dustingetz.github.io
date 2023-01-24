@@ -1,0 +1,133 @@
+public:: true
+
+- Why
+	- People are good at imagining a world over long period of time; but it's very hard to map that into a sequence of steps. This framework helps you break a mission down into the next achievable chunk and actionable sequence of next steps.
+	- this model scales to 10,000 employees, $20B market cap
+- Framework overview
+	- (1) Strategy is direction
+		- Apex Strategy = Mission → GTM → Product → Roadmap → Finance
+	- (2) Align work to strategy
+		- Apex Strategy <- functional area strategy <- milestones <- issues
+- What is "Apex Strategy"?
+	- Apex Strategy = Mission → GTM → Product → Roadmap → Finance
+		- Strategy is not an endpoint; strategy is direction.
+			- A strategy is only useful in that it tells you what to do next.
+		- Mission = why the company exists
+			- the *change in people's behavior* you're *producing* in the world.
+			- "producing" -> "product"
+		- GTM = how will you reach the people in your market?
+			- work = force * displacement. if you haven't moved anyone, you haven't done any work!
+			- This is why GTM comes before product; **if you can't reach the market you don't have a startup**
+				- Therefore, **Startup = Growth**
+					- Growth = rate of change
+					- Time is the denominator
+	- Apex strategy is broken down into three sub-strategies:
+		- (1) **GTM** strategy – always and forever paramount!
+			- 12mo and 3yr are the most useful points for determining GTM
+		- (2) **Product** roadmap, informed by (1)
+		- (3) **Finance** strategy, informed by (1) & (2)
+	- Strict order of importance!
+		- "don't let the tail wag the dog"
+		- finance lets you execute more roadmap in parallel
+		- Yes at early stage the finance strategy puts a lot of constraints on things but still
+		- Must be in alignment with one another
+	- The three sub-categories map directly to three functional areas
+		- Market development - finding the next set of customers/users
+		- Product engineering (product and eng may be the same team at early stage)
+		- Investor relations
+- First, define Apex Strategy
+	- What is your mission and [[Positioning statement]]?
+	- The product you build is informed by and entangled with the GTM strategy
+		- business milestones are growth milestones
+			- the purpose of runway is to invest in growth
+			- growth is the thing your capital is buying
+			- a product that isn't growing is not even a product
+		- Examples:
+		  collapsed:: true
+			- does the product have viral elements engineered into the design?
+			- do you have a documentation product?
+			- do you have open source devkit and demos?
+			- do you have a trial version? is there licensing/DRM features?
+			- do certain market segments require specialized features sooner?
+			- does the product have problems in practice that are slowing down growth?
+			- If you pivot to a new GTM strategy, how do the features change?
+			- What are the reasons your company might grow slower than expected?
+	- What is the timeline to achieve the mission?
+		- at Seed+7 years, we'll have $1B ARR
+			- $1B ARR / $200k/yr ACV = 5,000 customers
+			- $1B ARR / (12 * $333/mo) = 250k customers
+		- How many customers do you need next year and what y/y growth do you need to hit the goal?
+	- Misconceptions about GTM
+		- "it could be used for X someday" is not a GTM
+- Second, define functional area strategy
+	- Apex Strategy -> functional area strategy -> milestones -> issues
+	- For this Apex Strategy, how does Founder judge the success of Company in {36, 18, 9} months?
+		- What do customers look like?
+		- What are they doing?
+		- How have their lives changed?
+	- Mark: My practice is to take some arbitrary distant timeframe (3 years say) and break it in half. I stopped at 9 months because your answer felt like a well defined, plan-able, achievable chunk to execute on. You can start with 15 years (to establish direction) but the intent is to focus in on what matters right now.
+- Next, figure out your 9 month milestones, which will inform your 3 month action plan.
+	- hitting the growth milestones means fixing issues blocking growth
+	- this work maps to the 3 functional areas (GTM, Eng, Finance)
+	- GTM
+		- you MUST develop your market in parallel with your product
+		- Find a way to tell a story to a prospective user
+		- For hard tech / deep tech, you need to find a proxy for growth
+			- content marketing - blogging, twitter etc
+			- OSS, technical alphas
+			- waitlist signups
+			- the harder your tech, the more likely you need to bootstrap
+				- VCs don't like science projects
+				- to invest in something, you have to understand it
+	- Product/Eng
+		- do you need to increase retention?
+		- is the problem reliability? activation? features?
+	- Finance
+		- do you need to close a pilot?
+		- do you need to develop investor relationships right now?
+			- what assumptions are you making about access to capital?
+				- do investors like you? do you understand investors?
+				- how many investors do you know?
+				- who will provide warm intros? are you sure?
+- 3 month action plan directed towards 9 month goals
+	- Add a 4th question for lieutenants to answer for their functional area:
+		- How did we do it?
+			- GTM
+			- Product engineering
+			- Finance
+	- Lieutenants of each functional area must come up with their own plan
+		- you can't be held accountable to someone else's plan
+		- "One key to success is establishing clear lines of blame"
+	- Hand the milestones to the lieutenants and ask them to produce a plan for how to achieve it.
+		- the real goal of a startup is to remove uncertainty through validated learnings
+		- you must validate, because "assumptions are what gets you killed"
+		- Validated Learning requires data, this is meant to be scientific
+		- What are you trying to validate next to show that your GTM strategy is not wrong?
+		- See: [[MVP = build-measure-learn feedback loop]]
+	- [Minimum Viable Plan = Risk Mitigation + Goal Invalidation](See: [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]])
+		- we care most about knowing if the plan is correct
+		- so we want metrics to track if the plan itself is wrong
+- Communicate action plan to stakeholders in the context of strategy
+	- stakeholders = investors, employees, customers
+	- You need to have a solid story that:
+		- explains what you're doing
+		- simple enough that anyone can understand
+		- and they can understand their role in the plan
+- Iterate monthly
+	- repeat/revise this exercise personally, and then realign with lieutenants (this is a goal setting exercise)
+	- The framework does NOT call for a top-line metric like revenue or contracts out in the future.
+		- Only for 9 month milestone can we see clearly enough.
+		- Stating anticipated payroll is okay.
+- Focus daily
+	- Every morning, verbalize these two things:
+		- (1) What's the next big goal that we're striving toward in terms of Apex strategy?
+		- (2) What's the biggest roadblock that's keeping us from getting there? this informs your focus for that day.
+- Accountability
+	- Bi-weekly coaching meetings
+	- Start each session with:
+		- What is the company apex strategy?
+		- What is the GTM plan that achieves the mission?
+		- Map that down into functional area milestones?
+		- How do you know if it's working?
+			- What have you learned about the plan's viability at the level of GTM strategy?
+				- E.g "fusion teams are never gonna work"

@@ -1,0 +1,24 @@
+public:: true
+
+- MVP is the thinnest possible end-to-end slice that validates a hypothesis
+- hypothesis can be about anything: communication, persona, product etc
+- this feedback loop needs to be as tight as possible
+	- your assumptions will be wrong a lot
+	- "assumptions are what gets you killed"
+- helpful framework: Question-Claim-Evidence
+- examples:
+	- Product (easiest)
+		- Do we solve a real problem? Can we access people with the problem? Is our solution unique?
+			- We invested a full month in writing a technical blog post and it reached +470 on hacker news, generating 100+ comments of heated discussion.
+		- Is our OSS product too immature to launch?
+			- We launched a private technical alpha to followers and did 2 hour zoom onboarding calls to compensate for rough edges and the lack of documentation. 3 early users contributed github commits so we extended the alpha.
+	- GTM
+		- Is channel partnerships with System Integrators and agencies a viable GTM strategy to reach Fortune-1000 enterprise market?
+			- We asked relevant VCs for feedback, and the consensus was that it is not.
+		- Would scriptable database utility apps be an OSS activation trigger to break out of hobbyist market and into at work codebases?
+			- A user had built us one, so we polished it and shared it in the database community slack channel. Few people reacted.
+	- Finance
+		- Is Venture Capital a viable finance strategy for us in 2018?
+			- We spoke with 2 former founders in our network and asked for feedback. It felt like an argument and the relationship did not develop and/or died.
+		- Given our hackernews traction, is VC is now viable for us?
+			- We spoke to 5 new founders, 2 were excited to help and offered intros to 3 investors; all 3 investors passed. Pass reason was: "Your technology has our attention but you don't have a real GTM"

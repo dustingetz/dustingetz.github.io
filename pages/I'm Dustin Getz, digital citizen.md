@@ -2,7 +2,11 @@
 - I work on Photon, a network-streamed programming language for building stateful user interfaces.
 - I research the structural computation of software applications and user interfaces, in an attempt to tame runaway complexity in our information systems today.
 -
-- Contact: https://twitter.com/dustingetz (DMs welcome! and much preferred over email)
+- Contact
+	- https://twitter.com/dustingetz (DMs welcome! and much preferred over email)
+-
+- Frameworks – teaching is the 12th step
+	- [[Apex strategy framework for startup work alignment]]
 -
 - Aphorisms
 	- Assumptions are what gets you killed
@@ -27,8 +31,12 @@
 	- If a system is to serve the creative spirit, it must be entirely comprehensible to a single individual. Human potential manifests in individuals. — Dan Ingalls
 	- Civilization advances by extending the number of operations we can perform without thinking about them
 	- [[Coordinating solutions to inadequate eqilibriums]]
-	- [[On Big Startup Ideas (2017)]]
 	- [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
+	- [[On Big Startup Ideas (2017)]]
+	- [[Much madness is divinest sense]]
+-
+- Content
+	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
 -
 - Tech Talks
 	- 2022 Hytradboi – [UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
@@ -49,7 +57,5 @@
 	- 2012 Strange Loop – Monads in Python
 	- 2011 Avoid callback hell: a practical introduction to continuations
 -
-- Frameworks
-	- [[Apex strategy framework for startup success]]
 -
 public:: true
