@@ -10,17 +10,17 @@ public:: true
 		- Apex Strategy <- functional area strategy <- milestones <- issues
 - What is "Apex Strategy"?
 	- Apex Strategy = Mission → GTM → Product → Roadmap → Finance
-		- Strategy is not an endpoint; strategy is direction.
-			- A strategy is only useful in that it tells you what to do next.
-		- Mission = why the company exists
-			- the *change in people's behavior* you're *producing* in the world.
-			- "producing" -> "product"
-		- GTM = how will you reach the people in your market?
-			- work = force * displacement. if you haven't moved anyone, you haven't done any work!
-			- This is why GTM comes before product; **if you can't reach the market you don't have a startup**
-				- Therefore, **Startup = Growth**
-					- Growth = rate of change
-					- Time is the denominator
+	- Strategy is not an endpoint; strategy is direction.
+		- A strategy is only useful in that it tells you what to do next.
+	- Mission = why the company exists
+		- the *change in people's behavior* you're *producing* in the world.
+		- "producing" -> "product"
+	- GTM = how will you reach the people in your market?
+		- work = force * displacement. if you haven't moved anyone, you haven't done any work!
+		- This is why GTM comes before product; **if you can't reach the market you don't have a startup**
+			- Therefore, **Startup = Growth**
+				- Growth = rate of change
+				- Time is the denominator
 	- Apex strategy is broken down into three sub-strategies:
 		- (1) **GTM** strategy – always and forever paramount!
 			- 12mo and 3yr are the most useful points for determining GTM
@@ -28,9 +28,11 @@ public:: true
 		- (3) **Finance** strategy, informed by (1) & (2)
 	- Strict order of importance!
 		- "don't let the tail wag the dog"
-		- finance lets you execute more roadmap in parallel
 		- Yes at early stage the finance strategy puts a lot of constraints on things but still
-		- Must be in alignment with one another
+		- Finance just lets you execute more roadmap in parallel
+	- Must be in alignment with one another
+		- if your mission is to ${huge_disruptive_thing} then your GTM and Finance must be credible
+		- Make a list of the incumbent cos that you want to disrupt. How did they do it? What was their GTM at various points? How much capital consumed?
 	- The three sub-categories map directly to three functional areas
 		- Market development - finding the next set of customers/users
 		- Product engineering (product and eng may be the same team at early stage)
@@ -43,15 +45,16 @@ public:: true
 			- growth is the thing your capital is buying
 			- a product that isn't growing is not even a product
 		- Examples:
-		  collapsed:: true
-			- does the product have viral elements engineered into the design?
+			- What are the reasons your company might grow slower than expected?
+			- Does the product need viral elements engineered into the design?
 			- do you have a documentation product?
 			- do you have open source devkit and demos?
 			- do you have a trial version? is there licensing/DRM features?
 			- do certain market segments require specialized features sooner?
 			- does the product have problems in practice that are slowing down growth?
 			- If you pivot to a new GTM strategy, how do the features change?
-			- What are the reasons your company might grow slower than expected?
+		- Homework:
+			- make a list of famous companies and write out their GTM
 	- What is the timeline to achieve the mission?
 		- at Seed+7 years, we'll have $1B ARR
 			- $1B ARR / $200k/yr ACV = 5,000 customers
