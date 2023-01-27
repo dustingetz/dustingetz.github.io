@@ -1,10 +1,14 @@
-- A minimum viable plan must answer the following questions:
-  title:: Minimum Viable Plan = Risk Mitigation + Goal Invalidation
+- Plans have a few purposes:
+	- (1) work out contingencies and what-if scenarios
+	- (2) determine if the plan itself is wrong
+	- (3) communicate with key stakeholders (employees, customers, investors)
+- A minimum viable plan must answer:
 	- (1) what is the risk mitigation plan for achieving the goals?
 		- What's the risk
 		- How are we managing the risk
 	- (2) "Goal Invalidation"
 		- What metrics will we use to show that the plan is WRONG?
+	- (3) Who are the key stakeholders
 - we care most about knowing if the plan is correct
 	- so we want metrics to track if the **plan itself is wrong**
 	- which is different than execution against the plan
@@ -14,5 +18,12 @@
 	- force them to break the plan so that it strengthens the plan
 	- much of the time the way you invalidate the plan is by establishing some sort of metrics that you can judge success or failure by. that tends to fall out of this exercise.
 		- e.g. I know the goals are wrong if I can't get Customer Pilot to be satisfied if we can't withdraw our paid services.
-- Warning: CEO is his own lieutenant wrt GTM, so "goal invalidation" is a tough mental exercise.
+	- Warning: CEO is his own lieutenant wrt GTM, so "goal invalidation" is a tough mental exercise.
+- Communicate action plan to stakeholders in the context of the Apex Strategy
+  id:: 63d42168-bb90-44f8-8832-9fec4b780760
+	- stakeholders = investors, employees, customers
+	- You need to have a solid story that:
+		- explains what you're doing
+		- simple enough that anyone can understand
+		- and they can understand their role in the plan
 public:: true

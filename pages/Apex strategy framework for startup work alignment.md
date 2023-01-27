@@ -69,7 +69,7 @@ public:: true
 		- What are they doing?
 		- How have their lives changed?
 	- Mark: My practice is to take some arbitrary distant timeframe (3 years say) and break it in half. I stopped at 9 months because your answer felt like a well defined, plan-able, achievable chunk to execute on. You can start with 15 years (to establish direction) but the intent is to focus in on what matters right now.
-- Next, figure out your 9 month milestones, which will inform your 3 month action plan.
+- Next, figure out your {3,6,9} month growth milestones, which will inform your 3 month action plan
 	- hitting the growth milestones means fixing issues blocking growth
 	- this work maps to the 3 functional areas (GTM, Eng, Finance)
 	- GTM
@@ -92,7 +92,7 @@ public:: true
 				- do investors like you? do you understand investors?
 				- how many investors do you know?
 				- who will provide warm intros? are you sure?
-- 3 month action plan directed towards 9 month goals
+- 3 month action plan directed towards {3,6,9} month milestones
 	- Add a 4th question for lieutenants to answer for their functional area:
 		- How did we do it?
 			- GTM
@@ -110,12 +110,7 @@ public:: true
 	- [Minimum Viable Plan = Risk Mitigation + Goal Invalidation](See: [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]])
 		- we care most about knowing if the plan is correct
 		- so we want metrics to track if the plan itself is wrong
-- Communicate action plan to stakeholders in the context of strategy
-	- stakeholders = investors, employees, customers
-	- You need to have a solid story that:
-		- explains what you're doing
-		- simple enough that anyone can understand
-		- and they can understand their role in the plan
+- ((63d42168-bb90-44f8-8832-9fec4b780760))
 - Iterate monthly
 	- repeat/revise this exercise personally, and then realign with lieutenants (this is a goal setting exercise)
 	- The framework does NOT call for a top-line metric like revenue or contracts out in the future.
@@ -129,7 +124,7 @@ public:: true
 	- Bi-weekly coaching meetings
 	- Start each session with:
 		- What is the company apex strategy?
-		- What is the GTM plan that achieves the mission?
+		- What is the GTM plan?
 		- Map that down into functional area milestones?
 		- How do you know if it's working?
 			- What have you learned about the plan's viability at the level of GTM strategy?

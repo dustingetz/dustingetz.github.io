@@ -7,6 +7,7 @@
 -
 - Frameworks – teaching is the 12th step
 	- [[Apex strategy framework for startup work alignment]]
+	- [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
 -
 - Aphorisms
 	- Assumptions are what gets you killed
