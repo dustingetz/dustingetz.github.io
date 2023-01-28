@@ -38,6 +38,7 @@
 -
 - Content
 	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
+	- [[On abstraction, and functions with long implementations (2022)]]
 -
 - Tech Talks
 	- 2022 Hytradboi – [UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
@@ -58,5 +59,4 @@
 	- 2012 Strange Loop – Monads in Python
 	- 2011 Avoid callback hell: a practical introduction to continuations
 -
--
-public:: true
+- public:: true

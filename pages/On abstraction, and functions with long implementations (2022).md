@@ -1,5 +1,4 @@
-author:: Dustin Getz, Founder [Hyperfiddle](https://www.hyperfiddle.net/) a notation for CRUD apps
-public:: false
+public:: true
 
 - In mathematics, many functions are *universal*
   universal = aliens from our same universe also have this function
@@ -30,7 +29,7 @@ public:: false
   These essential functions (that make up e.g. Calculus and Trigonometry) are taught to students
   They are the same functions in every country 
   and every human shares the same definitions.
-  From this *unity* of understanding
+- From this *unity* of understanding
   we can construct proofs and reproduce their correctness.
   We can create strong mental models that don't leak, and therefore scale
   to incredibly large ideas like space ships and digital computers
