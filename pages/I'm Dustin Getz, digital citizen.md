@@ -9,6 +9,12 @@
 	- [[Apex strategy framework for startup work alignment]]
 	- [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
 -
+- Content
+	- [UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
+	- [You don't need a web framework, you need a web language](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)
+	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
+	- [[On abstraction, and functions with long implementations (2022)]]
+-
 - Aphorisms
 	- Assumptions are what gets you killed
 	- Opportunity is the space between your competitors' assumptions
@@ -35,10 +41,6 @@
 	- [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
 	- [[On Big Startup Ideas (2017)]]
 	- [[Much madness is divinest sense]]
--
-- Content
-	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
-	- [[On abstraction, and functions with long implementations (2022)]]
 -
 - Tech Talks
 	- 2022 Hytradboi – [UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
