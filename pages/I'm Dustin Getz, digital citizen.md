@@ -54,7 +54,7 @@
 	- [2016 LambdaConf – What would happen if REST were immutable?](https://docs.google.com/document/d/1hb9qB_d9jlDUpgTSBcFELGhKuWVecVzgGCcOeR9UueE/edit#heading=h.up2n5n7x3shf)
 	- 2015 Clojadelphia – Eliminating I/O concerns with immutability
 	- 2015 Scala PHASE – Rethinking webapp best practices around immutability
-	- [2015 DatomicConf – What Datomic does to REST](http://dustingetzcom.hyperfiddle.com/:what-datomic-does-to-rest/)
+	- [2015 DatomicConf – What Datomic does to REST](http://web.archive.org/web/20200810210507/http://www.dustingetz.com/:what-datomic-does-to-rest/)
 	- 2014 Philly JS – Workshop: React.js and Functional Javascript, with Daniel Miladinov
 	- [2014 QCon NYC – Functional Programming on the Front-end with React.js](https://www.infoq.com/presentations/fp-facebook-react)
 	- 2013 Philly ETE – Livecoding a webapp in both Clojure and Scala
