@@ -1,6 +1,6 @@
-- I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a UI notation and modeling language.
-- I work on Photon, a network-streamed programming language for building stateful user interfaces.
-- I research the structural computation of software applications and user interfaces, in an attempt to tame runaway complexity in our information systems today.
+- I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a hyper-converged programming playground for digital natives to program their lives, powered by applied computer science.
+- I designed [Electric Clojure](https://github.com/hyperfiddle/electric), an experimental programming language specialized for stateful user interfaces.
+- I research the computational structure of software applications and user interfaces, in an attempt to tame runaway complexity in our information systems today.
 -
 - Contact
 	- https://twitter.com/dustingetz (DMs welcome! and much preferred over email)
