@@ -1,13 +1,13 @@
 - I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a hyper-converged programming playground for digital natives to program their lives, powered by applied computer science.
 - I designed [Electric Clojure](https://github.com/hyperfiddle/electric), an experimental programming language specialized for ultra-dynamic stateful apps like word processors, spreadsheets, and IDEs.
 - For fun I run 30 miles per week, practice vibraphone, and study math (current topic: linear algebra)
-	- ![2016-vibraphone.jpg](../assets/2016-vibraphone_1677511165637_0.jpg){:height 535, :width 374}
+	- ![2016-vibraphone.jpg](../assets/2016-vibraphone_1677511165637_0.jpg){:height 358, :width 257}
 	-
 -
 - Contact
 	- https://twitter.com/dustingetz (DMs welcome! and much preferred over email)
 -
-- Frameworks – teaching is the 12th step
+- Frameworks for founders
 	- [[Apex strategy framework for startup work alignment]]
 	- [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
 -
@@ -35,6 +35,7 @@
 	- Working with existing ideas is often mired in existing biases, sunk cost fallacies, and a shroud of confidentiality — all of which limit teams from taking off their blinders and really see the world of possibility.
 	- Judgments are projections of the judge
 	- Impossible is just a big word thrown around by small men who find it easier to live in the world they’ve been given than to explore the power they have to change it. — Muhammad Ali
+	- [[You can sometimes do what sounds impossible by reframing your problem — John D. Cook]]
 	- [[You can’t find secrets without looking for them — Peter Theil]]
 	- The goal is not to avoid mistakes; the goal is to achieve uncorrelated levels of excellence in some dimension — Nat Friedman
 	- If a system is to serve the creative spirit, it must be entirely comprehensible to a single individual. Human potential manifests in individuals. — Dan Ingalls
