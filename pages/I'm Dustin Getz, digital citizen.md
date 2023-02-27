@@ -1,6 +1,8 @@
 - I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a hyper-converged programming playground for digital natives to program their lives, powered by applied computer science.
 - I designed [Electric Clojure](https://github.com/hyperfiddle/electric), an experimental programming language specialized for ultra-dynamic stateful apps like word processors, spreadsheets, and IDEs.
-- I research the computational structure of software applications and user interfaces, in an attempt to tame runaway complexity in our information systems today.
+- For fun I run 30 miles per week, practice vibraphone, and study math (current topic: linear algebra)
+	- ![2016-vibraphone.jpg](../assets/2016-vibraphone_1677511165637_0.jpg){:height 535, :width 374}
+	-
 -
 - Contact
 	- https://twitter.com/dustingetz (DMs welcome! and much preferred over email)
