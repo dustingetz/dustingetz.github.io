@@ -1,21 +1,16 @@
 - I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a hyper-converged programming playground for digital natives to program their lives, powered by applied computer science.
 - I designed [Electric Clojure](https://github.com/hyperfiddle/electric), an experimental programming language specialized for ultra-dynamic stateful apps like word processors, spreadsheets, and IDEs.
-- For fun I run 30 miles per week, practice vibraphone, and study math (current topic: linear algebra)
+- In the evenings I practice vibraphone and work through math books. I've also ran 30 miles per week for 10+ years.
 	- ![2016-vibraphone.jpg](../assets/2016-vibraphone_1677511165637_0.jpg){:height 358, :width 257}
 	-
 -
 - Contact
-	- https://twitter.com/dustingetz (DMs welcome! and much preferred over email)
+	- https://twitter.com/dustingetz (DMs welcome!)
 -
 - Frameworks for founders
 	- [[Apex strategy framework for startup work alignment]]
 	- [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
 -
-- Content
-	- [UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
-	- [You don't need a web framework, you need a web language](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)
-	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
-	- [[On abstraction, and functions with long implementations (2022)]]
 -
 - Aphorisms
 	- Assumptions are what gets you killed
@@ -29,11 +24,11 @@
 	- Communication usually fails, except by accident
 	- [[You Can't Tell People Anything (you have to show them)]]
 	- Marketing is telling someone something that they already believe to be true
-	- Everyone has an angle (some interest in the interaction). If you can't see it, you're the sucker
+	- Everyone has an angle
+	- Judgments are projections of the judge
 	- Groups never admit failure, you get a schism instead
 	- You do not rise to the level of your goals. You fall to the level of your systems.
 	- Working with existing ideas is often mired in existing biases, sunk cost fallacies, and a shroud of confidentiality — all of which limit teams from taking off their blinders and really see the world of possibility.
-	- Judgments are projections of the judge
 	- Impossible is just a big word thrown around by small men who find it easier to live in the world they’ve been given than to explore the power they have to change it. — Muhammad Ali
 	- [[You can sometimes do what sounds impossible by reframing your problem — John D. Cook]]
 	- [[You can’t find secrets without looking for them — Peter Theil]]
@@ -44,6 +39,12 @@
 	- [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
 	- [[On Big Startup Ideas (2017)]]
 	- [[Much madness is divinest sense]]
+-
+- Content
+	- [UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
+	- [You don't need a web framework, you need a web language](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)
+	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
+	- [[On abstraction, and functions with long implementations (2022)]]
 -
 - Tech Talks
 	- 2022 Hytradboi – [UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
