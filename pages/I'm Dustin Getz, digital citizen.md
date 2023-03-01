@@ -1,16 +1,10 @@
 - I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a hyper-converged programming playground for digital natives to program their lives, powered by applied computer science.
 - I designed [Electric Clojure](https://github.com/hyperfiddle/electric), an experimental programming language specialized for ultra-dynamic stateful apps like word processors, spreadsheets, and IDEs.
-- In the evenings I practice vibraphone and work through math books. I've also ran 30 miles per week for 10+ years.
+- In the evenings I practice vibraphone and work through math books. I also run 30 miles per week and have for 10 years.
 	- ![2016-vibraphone.jpg](../assets/2016-vibraphone_1677511165637_0.jpg){:height 358, :width 257}
 	-
--
 - Contact
 	- https://twitter.com/dustingetz (DMs welcome!)
--
-- Frameworks for founders
-	- [[Apex strategy framework for startup work alignment]]
-	- [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
--
 -
 - Aphorisms
 	- Assumptions are what gets you killed
@@ -40,14 +34,15 @@
 	- [[On Big Startup Ideas (2017)]]
 	- [[Much madness is divinest sense]]
 -
+- Frameworks for founders
+	- [[Apex strategy framework for startup work alignment]]
+	- [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
+-
 - Content
-	- [UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
-	- [You don't need a web framework, you need a web language](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)
+	- **[2022 UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)**
 	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
 	- [[On abstraction, and functions with long implementations (2022)]]
--
-- Tech Talks
-	- 2022 Hytradboi – [UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
+	- **[You don't need a web framework, you need a web language (2021)](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)**
 	- 2018 REST FEST – The Quest for a General Hypermedia Client
 	- 2018 Clojadelphia – The structure of CRUD apps
 	- 2017 Scala PHASE – Datomic: functional programming in the database
