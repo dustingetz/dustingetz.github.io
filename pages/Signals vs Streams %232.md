@@ -19,4 +19,3 @@
 - This is why differential dataflow is a poor fit for reactive UI rendering. Clients are resource constrained, you need to be lazy and skip as much work as possible, by polling exactly what you need when you need it.
 - Rendering is fundamentally lazy. Commands are fundamentally eager. To model real world systems you need both
 - Our Photon language models signals. (Photon is a fully reactive programming language for fullstack UI development. It does not just reactive rendering, but also reactive backend, all connected together into a streaming fullstack application)
-- [https://twitter.com/dustingetz/status/1441014871513051137](https://twitter.com/dustingetz/status/1441014871513051137)

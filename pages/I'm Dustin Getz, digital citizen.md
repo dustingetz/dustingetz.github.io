@@ -1,4 +1,5 @@
-- I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a hyper-converged programming playground for building UIs, powered by applied computer science. We exist to let digital natives program their business and lives, without drowning in complexity.
+- I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a hyper-converged programming playground for building cloud GUIs, powered by applied computer science. We exist to let digital natives program their business and lives, without drowning in complexity.
+- by Dustin Getz, founder Hyperfiddle, a hyper-converged programming playground for cloud UI
 - I designed [Electric Clojure](https://github.com/hyperfiddle/electric), an experimental programming language specialized for ultra-dynamic stateful apps like word processors, spreadsheets, and IDEs.
 - In the evenings I practice vibraphone and work through math books. I also run 30 miles per week and have for 10 years.
 	- ![2016-vibraphone.jpg](../assets/2016-vibraphone_1677511165637_0.jpg){:height 358, :width 257}
@@ -39,6 +40,7 @@
 	- [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
 -
 - Content
+	- [[Signals vs Streams (2023)]]
 	- **[2022 UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)**
 	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
 	- [[On abstraction, and functions with long implementations (2022)]]

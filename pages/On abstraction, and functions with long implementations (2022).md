@@ -1,5 +1,7 @@
+- by Dustin Getz, founder Hyperfiddle, a hyper-converged programming playground for cloud UI
 public:: true
 
+-
 - In mathematics, many functions are *universal*
   universal = aliens from our same universe also have this function
   universal = "including or covering all or a whole collectively or distributively without limit or exception"
