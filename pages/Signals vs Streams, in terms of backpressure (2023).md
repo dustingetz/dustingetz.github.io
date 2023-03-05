@@ -6,7 +6,7 @@ public:: true
 	- image credit: [Kefir JS, intro to Streams and Properties](https://kefirjs.github.io/kefir/#about-observables)
 -
 - Quick notes:
-	- Both signals and streams are ways to do implement reactive computations
+	- Both signals and streams are ways to implement reactive computations
 	- both use a "reactivity graph" which captures the flow of data as a DAG topology
 	- both propagate async values through the DAG
 	- ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Tred-G.svg/1024px-Tred-G.svg.png){:height 170, :width 159}

@@ -1,7 +1,6 @@
-- I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a hyper-converged programming playground for building cloud GUIs, powered by applied computer science. We exist to let digital natives program their business and lives, without drowning in complexity.
-- by Dustin Getz, founder Hyperfiddle, a hyper-converged programming playground for cloud UI
-- I designed [Electric Clojure](https://github.com/hyperfiddle/electric), an experimental programming language specialized for ultra-dynamic stateful apps like word processors, spreadsheets, and IDEs.
-- In the evenings I practice vibraphone and work through math books. I also run 30 miles per week and have for 10 years.
+- I am the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a hyper-converged programming playground for building cloud GUIs, powered by applied computer science.
+- I designed [Electric Clojure](https://github.com/hyperfiddle/electric), an experimental programming language for ultra-dynamic stateful apps like word processors, spreadsheets, and IDEs.
+- In the evenings I practice vibraphone and work through math books. I also run 30 miles per week.
 	- ![2016-vibraphone.jpg](../assets/2016-vibraphone_1677511165637_0.jpg){:height 358, :width 257}
 	-
 - Contact
