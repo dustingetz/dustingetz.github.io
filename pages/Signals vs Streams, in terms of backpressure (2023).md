@@ -46,23 +46,20 @@ public:: true
 	- Streams are async sequences, so it is easy to **fan out a streamy computation over a cluster** or distributed system.
 -
 - **Reactive client/server network sync in web apps**
-	- This is original work from my colleagues and I at Hyperfiddle.
-	- With [Electric Clojure](https://github.com/hyperfiddle/electric), we've demonstrated that fullstack web applications can be expressed as a single, unified signal graph that spans the client/server distributed system.
-	- Key insights:
-		- ["UIs are streaming DAGs"](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
-		- function -> async function -> stream function -> reactive function -> distributed function
+	- This is original work from my colleagues and I at Hyperfiddle. With [Electric Clojure](https://github.com/hyperfiddle/electric), we've demonstrated that fullstack web applications can be expressed as a single, unified signal graph that spans the client/server distributed system.
+	- How? **Weave frontend and backend together into a grand unified reactivity graph**
+		- reactive frontend <=> reactive backend
+		- Network is simply reactive signals broadcast through a websocket.
+	- Define the frontend and backend all in the same place and **use a compiler to manage the frontend/backend boundary**
+		- The compiler automatically generates client and server from the unified program. The client and server stream lexical scope values back and forth over network.
 		- reactive programming language (reactive-if, reactive lambda, reactive lexical scope)
-	- The big idea is to **use a compiler to manage the frontend/backend boundary**:
-		- Model the entire client/server system as signals
-			- reactive frontend
-			- reactive backend
-		- **Connect frontend and backend together into one grand unified reactivity graph.**
-		- The language itself is reactive, lexical scope is reactive.
-		- When a backend signal updates, stream a message through a websocket and directly into the frontend lexical scope and continue propagating on the client.
-		- Network is simply reactive signals broadcast through websocket.
-		- the compiler automatically generates client and server from the unified program. The client and server stream lexical scope values back and forth over network.
-		- There is a **network planner** to eliminate request waterfalls, which is possible because the DAG contains everything there is to know about how the data flows through the system.
+		- generalize: function -> async function -> stream or signal function -> distributed function
 		- Async, latency, failure and caching are all handled perfectly by the signal abstraction.
+	- **Streaming lexical scope:** when a backend signal updates, stream a message through a websocket and directly into the frontend lexical scope and continue propagating on the client.
+		- ![image.png](../assets/image_1678573986579_0.png){:height 314, :width 350}
+		-
+	- There is a **network planner** to eliminate request waterfalls, which is possible because the DAG contains everything there is to know about how the data flows through the system.
+	- See 10 min lightning talk: [UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
 -
 - I think this is enough for one day. More to come!
 -
@@ -82,4 +79,4 @@ public:: true
 	- actors
 	- workflows
 -
-- Dustin Getz is the founder of Hyperfiddle, a hyper-converged code playground for building cloud GUIs, and designer of [Electric Clojure](https://github.com/hyperfiddle/electric), a fullstack signals DSL with fine-grained reactive network.
+- Dustin Getz is the founder of [Hyperfiddle](https://www.hyperfiddle.net/), a hyper-converged code playground for building cloud GUIs, and designer of [Electric Clojure](https://github.com/hyperfiddle/electric), a fullstack signals DSL with fine-grained reactive network.
