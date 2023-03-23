@@ -1,0 +1,30 @@
+- **Scalability:** Handling increasing workloads and resource adjustment; Example: Azure Cosmos DB (seamless scaling)
+- **Availability:** Ensuring system uptime and accessibility; Example: Azure SQL Database (up to 99.995% availability).
+- **Read consistency:** Guarantee of most recent value; Example: Amazon DynamoDB (both eventually and strongly consistent options).
+- **Latency:** Time for read/write operation completion; Example: Google Cloud Spanner (low-latency).
+- **Throughput:** read or write operations per second (Example: Apache Cassandra, Amazon DynamoDB)
+- **Data durability:** Protecting data loss/corruption; Example: Amazon S3 (99.999999999% durability).
+- **Data model:** Document vs. Relational; Example: MongoDB (document), MySQL (relational).
+- **Data processing paradigm:** Streaming vs. Batch; Example: Apache Kafka (streaming), Apache Hadoop (batch).
+- **Data partitioning/sharding:** Distributing data; Example: Google Cloud Bigtable (auto-sharding).
+- **Transactional vs. analytic:** Short/simple vs. complex/long-running queries; Example: Google BigQuery (analytic).
+- **Concurrency:** Simultaneous operation handling; Example: Amazon Aurora (high concurrency support).
+- **Replication:** Multiple data copies; Example: MongoDB Atlas (automatic replication).
+- **Multi-region:** Data distributed across geographies; Example: AWS Global Accelerator (multi-region support).
+- **Backup and recovery:** Restoring data after failures; Example: Google Cloud SQL (automated backups and point-in-time recovery).
+- **Security and Access Control:** Data protection and user access management; Example: Firebase Realtime Database (Firebase rules).
+- **Infrastructure and Deployment:** Underlying hardware, software, or services; Example: AWS Lambda (serverless architecture).
+- **Encryption:** Protecting data confidentiality; Example: Azure Storage Service (server-side encryption).
+- **Data retention:** Stored data duration; Example: InfluxDB Cloud (configurable retention policies).
+- **Caching:** Temporarily storing data for faster access; Example: Amazon ElastiCache (in-memory caching).
+- **Query optimization:** Efficient data retrieval; Example: PostgreSQL (built-in query optimizer).
+- **Compression:** Reducing data storage size; Example: TimescaleDB (automatic data compression).
+- **Monitoring:** Tracking system performance; Example: Datadog (monitoring & alerting).
+- **Integration:** Connecting with other services; Example: Snowflake (native integration with BI tools).
+- **Cold starts:** Time to initialize idle resources; Example: AWS Lambda (reduced with provisioned concurrency).
+- **Capacity limits:** Maximum storage and throughput; Example: Amazon RDS (configurable instance sizes).
+- **Serverless architecture:** No server management; Example: Google Cloud Functions
+- **Access control:** Managing user permissions; Example: Firebase Realtime Database (Firebase rules).
+- **Autoscaling:** Automatic resource adjustment; Example: Google Cloud Run (scale based on demand).
+- **Indexing:** Accelerating data search; Example: Elasticsearch (inverted indices).
+-

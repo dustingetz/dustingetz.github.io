@@ -39,6 +39,7 @@
 	- [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
 -
 - Content
+	- [[Essential Factors for Assessing Distributed State Infrastructure (2023)]]
 	- [[Signals vs Streams, in terms of backpressure (2023)]]
 	- **[2022 UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)**
 	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
