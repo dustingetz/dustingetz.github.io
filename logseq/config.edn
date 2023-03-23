@@ -203,8 +203,14 @@
  :ref/linked-references-collapsed-threshold 50
 
  :favorites ["Drafts" "i'm dustin getz, digital citizen" "How to take dummy notes?"]
- :publishing/all-pages-public? false
+ :publishing/all-pages-public? true
  :ui/show-brackets? false
+ :editor/preferred-pasting-file? true
+ :journal/page-title-format "yyyy-MM-dd"
+ :feature/enable-timetracking? false
+ :feature/enable-flashcards? false
+ :feature/enable-whiteboards? false
+ :feature/enable-journals? false
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
