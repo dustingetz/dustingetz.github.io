@@ -1,3 +1,5 @@
+publish:: false
+
 - Business rules (queries, events, transactions)
 - **Logical data model** – one of many possible mappings to the information model. (object model, entity/relationship model)
 - **Information model** – an information model in software engineering is a representation of concepts and the relationships, constraints, rules, and operations to specify data semantics for a chosen domain of discourse. Within the field of software engineering and data modeling, an information model is usually an abstract, formal representation of entity types that may include their properties, relationships and the operations that can be performed on them. Independent of any database modeling techniques.

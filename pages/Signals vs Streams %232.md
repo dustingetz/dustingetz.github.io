@@ -1,3 +1,5 @@
+publish:: false
+
 - In reactive dataflow programming, there are two primary abstractions: stream and signal (aka "property"). What's the difference?
 - Streams model events – they are discrete and eager. Mouse clicks. Database transactions. Commands. They are undefined between events.
 - Signals model values. They are like Clojure atoms - they always have a current value and you only care about the most recent value.

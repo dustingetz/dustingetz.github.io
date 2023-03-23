@@ -38,13 +38,16 @@
 	- [[Apex strategy framework for startup work alignment]]
 	- [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
 -
-- Content
+- Technical content
 	- [[Essential Factors for Assessing Distributed State Infrastructure (2023)]]
-	- [[Signals vs Streams, in terms of backpressure (2023)]]
-	- **[2022 UIs are streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)**
+	- **[[Signals vs Streams, in terms of backpressure (2023)]]**
+	- **[UIs are streaming DAGs (2022)](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)**
 	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
 	- [[On abstraction, and functions with long implementations (2022)]]
 	- **[You don't need a web framework, you need a web language (2021)](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)**
+-
+- Talks
+	- [2022 Hytradboi – UIs are Streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
 	- 2018 REST FEST – The Quest for a General Hypermedia Client
 	- 2018 Clojadelphia – The structure of CRUD apps
 	- 2017 Scala PHASE – Datomic: functional programming in the database

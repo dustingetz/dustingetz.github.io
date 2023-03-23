@@ -1,4 +1,4 @@
-title:: CRUD/UI Infra Maxi
+publish:: false
 
 - I've been trying an idea for a while that all core application stack infrastructure is trending to eventually be PL infrastructure:
   
