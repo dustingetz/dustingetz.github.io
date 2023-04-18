@@ -1,5 +1,6 @@
 public:: true
 
+- *[ClojureVerse discussion](https://clojureverse.org/t/signals-vs-streams/9840)*
 - **Streams** (event streams) represent an **async sequence** of discrete events, like key presses or network packets or financial transactions.
 - **Signals** represent continuous time varying quantities, like an electrical voltage, an audio signal or the current mouse coordinates.
 - ![image.png](../assets/image_1678025357169_0.png){:height 439, :width 513}
