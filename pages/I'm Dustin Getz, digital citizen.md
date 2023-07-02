@@ -33,6 +33,7 @@
 	- [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
 	- [[On Big Startup Ideas (2017)]]
 	- [[Much madness is divinest sense]]
+	- [[Lost in Math: How Beauty Leads Physics Astray]]
 -
 - Frameworks for founders
 	- [[Apex strategy framework for startup work alignment]]
