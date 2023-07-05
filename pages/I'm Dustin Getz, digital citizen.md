@@ -13,14 +13,21 @@
 	- [[On abstraction, and functions with long implementations (2022)]]
 	- **[You don't need a web framework, you need a web language (2021)](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)**
 -
-- Frameworks and mental models
+- Frameworks and mental models – because the more models we share, the higher our communication bandwidth.
 	- [[Aphorisms for Founders and Product Managers]]
+	- [[Model: Previously Unknown Axiom]]
 	- [[Apex strategy framework for startup work alignment]]
 	- [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
 	- [[Essential Factors for Assessing Distributed State Infrastructure (2023)]]
 -
 - Meta
 	- [[If we can’t test it, is it science?]]
+	- [[You Can't Tell People Anything (you have to show them)]]
+	- [[Coordinating solutions to inadequate eqilibriums]]
+	- [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
+	- [[On Big Startup Ideas (2017)]]
+	- [[The Curse of Development]]
+	- [[You can sometimes do what sounds impossible by reframing your problem]]
 -
 - Tech Talks
 	- 2023 London Clojurians – Electric Clojure: compiler managed datasync for rich web apps

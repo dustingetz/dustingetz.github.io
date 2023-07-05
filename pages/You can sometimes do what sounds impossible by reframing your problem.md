@@ -1,5 +1,5 @@
 public:: true
-title:: You can sometimes do what sounds impossible by reframing your problem — John D. Cook
+title:: You can sometimes do what sounds impossible by reframing your problem
 
 - JOHN D COOK, [Life lessons from differential equations](https://www.johndcook.com/blog/2015/07/23/life-lessons-from-differential-equations/)
 	- 1. Some problems simply have no solution.
