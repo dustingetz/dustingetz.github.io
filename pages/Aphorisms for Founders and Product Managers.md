@@ -1,0 +1,28 @@
+public:: true
+
+- Assumptions are what gets you killed
+- Opportunity is the space between your competitors' assumptions
+- Intuition is the antonym of reason
+- Engineering is done with numbers. Analysis without numbers is just an opinion
+- Man errs because his will affirms or negates ideas that are not clear or distinct — Descartes
+- Again, define your terms, or we shall never understand one another — Voltaire
+- [[The Curse of Development]]
+- Being understood is too big an ask because it requires controlling the other person's perspective. Try instead to communicate
+- Communication usually fails, except by accident
+- [[You Can't Tell People Anything (you have to show them)]]
+- Marketing is telling someone something that they already believe to be true
+- Working with existing ideas is often mired in existing biases, sunk cost fallacies, and a shroud of confidentiality — all of which limit teams from taking off their blinders and really see the world of possibility.
+- Judgments are projections of the judge
+- Everyone has an angle
+- Groups never admit failure, you get a schism instead
+- You do not rise to the level of your goals. You fall to the level of your systems.
+- The goal is not to avoid mistakes; the goal is to achieve uncorrelated levels of excellence in some dimension — Nat Friedman
+- [[You can’t find secrets without looking for them — Peter Theil]]
+- Impossible is just a big word thrown around by small men who find it easier to live in the world they’ve been given than to explore the power they have to change it. — Muhammad Ali
+- [[You can sometimes do what sounds impossible by reframing your problem — John D. Cook]]
+- If a system is to serve the creative spirit, it must be entirely comprehensible to a single individual. Human potential manifests in individuals. — Dan Ingalls
+- Civilization advances by extending the number of operations we can perform without thinking about them
+- [[Coordinating solutions to inadequate eqilibriums]]
+- [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
+- [[On Big Startup Ideas (2017)]]
+- [[Much madness is divinest sense]]
