@@ -3,4 +3,4 @@
 - [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
 - [[Aphorisms for Founders and Product Managers]]
 - [[Model: Previously Unknown Axiom]]
-- [[Model: Cynefin complexity framework]]
+- [[Model: Cynefin, a map of uncertainty]]
