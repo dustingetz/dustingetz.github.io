@@ -3,16 +3,16 @@ public:: true
 - Source: https://commoncog.com/how-first-principles-thinking-fails/
 - ![image.png](../assets/image_1689514053177_0.png)
 - ![image.png](../assets/image_1688564105841_0.png)
-- Blind spots are how really smart people fail
+- Blind spots are how smart people fail
 	- Blind spots = undetected assumption
 		- "Assumptions are what gets you killed"
 		- unknown unknowns
-	- Blind spots -> over-confidence -> broken assumptions
+	- Blind spots -> over-confidence -> broken assumptions -> killed
 	- **Smart person fallacy**
 		- smart people get less feedback, you can only trust yourself
 		- they've corrected for other forms of error, so when they do make the occasional mistake, it is of this category (blind spot)
-		- Blind spots are insidious - they are impossible to detect
-			- being smarter doesn't help
+	- **Blind spots are insidious – they are impossible to detect** without external feedback
+		- being smarter doesn't help
 	- Expertise is local, nobody is expert at everything
 - How to compensate
 	- Feedback
@@ -24,12 +24,40 @@ public:: true
 			- you must constantly seek it
 			- you must reward it when you get it
 				- Powerful phrase: **"Thank you for the feedback"**
+		- Listen carefully
 	- Mapping
-		- Mapping the territory lets you know where the possible blind spots are
+		- Mapping the territory is how you identify where the possible blind spots are
+			- Concept maps, e.g. science and math
 			- **Know what is known**
-			- Maps are exhaustive, they show you the entire space
-		- Concept maps, e.g. science and math
-		- Frameworks and mental models
+		- Maps are exhaustive, they show you the entire space
+		- obviously you need the right map (blind spot at meta level)
+			- map the maps ...
+		- Collect frameworks and mental models
+			- your index of maps, i.e. meta map
 	- Analysis (writing)
-	- Listen carefully
+		- Do you really know? Or do you just like seeing yourself as someone who knows things?
+			- Powerful phrase: "How do you know?"
+		- Writing makes you accountable to yourself
+			- How do I know? prove it to yourself
+		- Writing as a synthesis activity
+			- Compare to formal study (i.e. at university)
+				- formal learning process
+					- textbook -> lecture -> homework -> quiz -> lab -> test -> midterm -> final
+						- synthesis
+						- spaced repetition
+					- If you don't do the homework you won't pass the test!
+				- willing student and credentialed teacher
+					- teacher/student is a superior/inferior status relationship, the credential establishes status and authority in a way that is obvious to the student.
+					- if the student rejects the credential, no learning will occur
+						- out of ignorance, or out of excellence? It doesn't matter
+						- see [[The Curse of Development]]
+						- "a man convinced against his will is of the same opinion still"
+		- Knowledge decay
 -
+- List of blind spots in famous smart people
+	- Smart haskell programer who hates dynamic languages
+		- Haskell twitter
+	- Smart dynamic lang programmer who hates typed languages
+		- Clojure twitter
+		- Rich Hickey
+	- Venture capitalist
