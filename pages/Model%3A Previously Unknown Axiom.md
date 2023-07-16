@@ -40,18 +40,10 @@ public:: true
 		- Writing makes you accountable to yourself
 			- How do I know? prove it to yourself
 		- Writing as a synthesis activity
-			- Compare to formal study (i.e. at university)
-				- formal learning process
-					- textbook -> lecture -> homework -> quiz -> lab -> test -> midterm -> final
-						- synthesis
-						- spaced repetition
-					- If you don't do the homework you won't pass the test!
-				- willing student and credentialed teacher
-					- teacher/student is a superior/inferior status relationship, the credential establishes status and authority in a way that is obvious to the student.
-					- if the student rejects the credential, no learning will occur
-						- out of ignorance, or out of excellence? It doesn't matter
-						- see [[The Curse of Development]]
-						- "a man convinced against his will is of the same opinion still"
+			- Compare to formal learning process (i.e. at university)
+				- textbook -> lecture -> homework -> quiz -> lab -> midterm exam -> final exam
+					- synthesis – if you don't do the homework you won't pass the test!
+					- feedback – how do you know you know
 		- Knowledge decay
 -
 - List of blind spots in famous smart people
