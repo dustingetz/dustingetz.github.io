@@ -1,3 +1,5 @@
-- [[Positioning statement]]
 - [[Apex strategy framework for startup work alignment]]
+- [[Positioning statement]]
 - [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
+- [[Aphorisms for Founders and Product Managers]]
+- [[Model: Previously Unknown Axiom]]

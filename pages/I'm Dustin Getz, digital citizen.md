@@ -1,10 +1,9 @@
 - I founded [Hyperfiddle](https://www.hyperfiddle.net/), a hyper-converged code playground for building cloud GUIs, powered by applied computer science.
 - I designed [Electric Clojure](https://github.com/hyperfiddle/electric), an experimental programming language for ultra-dynamic stateful apps like word processors, spreadsheets, and IDEs.
-- In the evenings I practice vibraphone and study math. I also run 30 miles per week.
+- In the evenings I practice vibraphone and study applied mathematics. I also run 30 miles every week.
 	- ![2016-vibraphone.jpg](../assets/2016-vibraphone_1677511165637_0.jpg){:height 358, :width 257}
 	-
-- Contact
-	- https://twitter.com/dustingetz (DMs welcome!)
+- Contact: https://twitter.com/dustingetz (DMs welcome!)
 -
 - Technical content
 	- **[[Signals vs Streams, in terms of backpressure (2023)]]**
@@ -12,13 +11,10 @@
 	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
 	- [[On abstraction, and functions with long implementations (2022)]]
 	- **[You don't need a web framework, you need a web language (2021)](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)**
--
-- Frameworks and mental models – because the more models we share, the higher our communication bandwidth.
-	- [[Aphorisms for Founders and Product Managers]]
-	- [[Model: Previously Unknown Axiom]]
-	- [[Apex strategy framework for startup work alignment]]
-	- [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
 	- [[Essential Factors for Assessing Distributed State Infrastructure (2023)]]
+-
+- For founders
+	- [[How to start a startup (and succeed)]]
 -
 - Meta
 	- [[If we can’t test it, is it science?]]
