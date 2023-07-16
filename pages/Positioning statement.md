@@ -39,4 +39,3 @@ public:: true
 	- The two week workshop comes with a long workbook that helps you methodically derive this.
 	- It can take years, traditionally formalizing the position statement is a Series A exercise because the exact product/market/customer has now come into focus, and ratcheting down on clarity is how you produce the next level of growth.
 	- At the concept stage you're still in the fog of war, you should have a hypothesis but it will change rapidly as you experiment and invalidate your concepts.
-	- I took a Maven course about startup branding which is where I got those examples. The course comes with a long workbook that helps you derive this methodically.
