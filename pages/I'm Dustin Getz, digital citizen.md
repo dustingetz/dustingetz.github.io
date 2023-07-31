@@ -26,7 +26,7 @@
 	- [[You can sometimes do what sounds impossible by reframing your problem]]
 -
 - Tech Talks
-	- 2023 London Clojurians – Electric Clojure: compiler managed datasync for rich web apps
+	- [2023 London Clojurians – Electric Clojure: compiler managed datasync for rich web apps](https://www.youtube.com/watch?v=v-GE_P1JSOQ)
 	- [2022 Hytradboi – UIs are Streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
 	- 2018 REST FEST – The Quest for a General Hypermedia Client
 	- 2018 Clojadelphia – The structure of CRUD apps
