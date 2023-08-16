@@ -48,8 +48,8 @@ public:: true
 	- https://cynefin.io/wiki/Cynefin_Domains
 -
 - {{twitter https://twitter.com/dustingetz/status/1674849366446571536}}
--
+- {{twitter https://twitter.com/tom_d_kerwin/status/1676298479805558799}}
 -
 - Detail version, poster resolution
-- ![image.png](../assets/image_1689518349037_0.png)
+- ![image.png](../assets/image_1689518349037_0.png){:height 559, :width 778}
 -

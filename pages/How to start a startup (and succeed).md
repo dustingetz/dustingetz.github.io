@@ -1,6 +1,6 @@
+- [[Aphorisms for Founders and Product Managers]]
 - [[Apex strategy framework for startup work alignment]]
 - [[Positioning statement]]
-- [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
-- [[Aphorisms for Founders and Product Managers]]
 - [[Model: Previously Unknown Axiom]]
 - [[Model: Cynefin, a map of uncertainty]]
+- [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
