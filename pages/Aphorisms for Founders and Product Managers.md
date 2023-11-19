@@ -22,6 +22,8 @@ public:: true
 - [[You can sometimes do what sounds impossible by reframing your problem]]
 - If a system is to serve the creative spirit, it must be entirely comprehensible to a single individual. Human potential manifests in individuals. — Dan Ingalls
 - Civilization advances by extending the number of operations we can perform without thinking about them
+- "Time is the denominator"
+- "Energy, not time, is our most precious resource." —Jim Loehr
 - [[Coordinating solutions to inadequate eqilibriums]]
 - [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
 - [[On Big Startup Ideas (2017)]]
