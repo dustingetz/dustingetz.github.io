@@ -11,10 +11,10 @@
 	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
 	- [[On abstraction, and functions with long implementations (2022)]]
 	- **[You don't need a web framework, you need a web language (2021)](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)**
-	- [[Essential Factors for Assessing Distributed State Infrastructure (2023)]]
 -
 - For founders
 	- [[How to start a startup (and succeed)]]
+	- [[Aphorisms for Founders and Product Managers]]
 	- [[4 Stages of Teaching]]
 -
 - Meta
@@ -25,6 +25,9 @@
 	- [[On Big Startup Ideas (2017)]]
 	- [[The Curse of Development]]
 	- [[You can sometimes do what sounds impossible by reframing your problem]]
+-
+- Lists
+	- [[Essential Factors for Assessing Distributed State Infrastructure (2023)]]
 -
 - Tech Talks
 	- [2023 London Clojurians – Electric Clojure: compiler managed datasync for rich web apps](https://www.youtube.com/watch?v=v-GE_P1JSOQ)
