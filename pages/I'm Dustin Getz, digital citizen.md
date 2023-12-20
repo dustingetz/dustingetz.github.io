@@ -1,6 +1,6 @@
 - I founded [Hyperfiddle](https://www.hyperfiddle.net/), a hyper-converged code playground for building cloud GUIs, powered by applied computer science.
 - I designed [Electric Clojure](https://github.com/hyperfiddle/electric), an experimental programming language for ultra-dynamic stateful apps like word processors, spreadsheets, and IDEs.
-- In the evenings I practice vibraphone and study applied mathematics. I also run 30 miles per week.
+- In the evenings I practice vibraphone and read math textbooks, currently studying quantum mechanics. I also run 30 miles per week.
 	- ![2016-vibraphone.jpg](../assets/2016-vibraphone_1677511165637_0.jpg){:height 358, :width 257}
 	-
 - Contact: https://twitter.com/dustingetz (DMs welcome!)
@@ -16,18 +16,16 @@
 	- [[How to start a startup (and succeed)]]
 	- [[Aphorisms for Founders and Product Managers]]
 	- [[4 Stages of Teaching]]
+	- [[You Can't Tell People Anything (you have to show them)]]
 -
 - Meta
-	- [[If we can’t test it, is it science?]]
-	- [[You Can't Tell People Anything (you have to show them)]]
 	- [[Coordinating solutions to inadequate eqilibriums]]
 	- [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
 	- [[On Big Startup Ideas (2017)]]
 	- [[The Curse of Development]]
 	- [[You can sometimes do what sounds impossible by reframing your problem]]
+	- [[If we can’t test it, is it science?]]
 -
-- Lists
-	- [[Essential Factors for Assessing Distributed State Infrastructure (2023)]]
 -
 - Tech Talks
 	- [2023 London Clojurians – Electric Clojure: compiler managed datasync for rich web apps](https://www.youtube.com/watch?v=v-GE_P1JSOQ)

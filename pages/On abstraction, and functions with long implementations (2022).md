@@ -36,6 +36,7 @@
 	  universal abstractions are better
 	  if it's not universal, that means there's accidental complexity. Strive to label it
 	  Non-essential functions are also accidental complexity. Strive to label it
-- As to how to apply this to our work on Photon and Missionary:
+- As to how to apply this to our work on Electric Clojure and Missionary:
   id:: 633f1d62-0093-4803-bb75-52798d6696f1
   I'll leave that as a thought exercise. It is probably different for each of us.
+-
