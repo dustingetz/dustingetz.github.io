@@ -1,7 +1,13 @@
 public:: true
 
 - Key idea for me: How can you hit a schedule if you don't know all the work?
-- How can you know all the work if you can't visualize the work?
+-
+- In retrospect, missed schedule falls into two big causes:
+	- Unplanned Work
+	- Planned Work That Didn't End Up Mattering
+- A prerequisite to No Unplanned Work is Knowing All The Work. To get from a hypothesis of the work to validated understanding of the work requires there to be Value Delivery, i.e. you've already demonstrated you understand at least institutionally how to get an increment of value delivered into the hands of a customer, which is how you validate that the Work Ended Up Mattering.
+- (Consequently, any work that hasn't been validated by a customer, is actually only *hypothetical* work, as we have not validated that the Work Ended Up Mattering.)
+- So you want to establish an end-to-end "through-line" as rapidly as possible so you can start iterating and setting up your feedback loops which facilitate work discovery and value validation.
 -
 -
 - Work drives the enterprise – reactive, survive and fix
