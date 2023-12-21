@@ -3,9 +3,11 @@ public:: true
 - Assumptions are what gets you killed
 - Opportunity is the space between your competitors' assumptions
 - Intuition is the antonym of reason
+- What we wish, that we readily believe. — Demosthenes
 - Engineering is done with numbers. Analysis without numbers is just an opinion
 - Man errs because his will affirms or negates ideas that are not clear or distinct — Descartes
 - Again, define your terms, or we shall never understand one another — Voltaire
+- Language shapes the way we think, and clarity of thought is measured through clarity of language.
 - [[The Curse of Development]]
 - Being understood is too big an ask because it requires controlling the other person's perspective. Try instead to communicate
 - Communication usually fails, except by accident
