@@ -1,0 +1,32 @@
+title:: 6 Ways to Beat the CAC Problem
+
+- The CAC problem occurs when a market is **fragmented** with many alternatives, resulting in high cost to bring customers to *your* product (i.e. CAC > LTV).
+	- CAC = customer acquisition cost
+	- LTV = customer lifetime value
+- Suppose you naively intend to dominate an entire category and beat all incumbents. How do you reach the users in a fragmented category?
+- Assume generously:
+	- for the first market segment,
+	- we invest in building a channel,
+	- we can reach exactly the right user,
+	- on the exact day that they are feeling the pain,
+	- and the product does exactly the right thing,
+	- and he understands that it's the right thing,
+	- and he decides to try it,
+	- and a great 30% activation rate,
+	- and great retention;
+- At each of these steps there is some large probability of losing the prospect, so that is already a large CAC. And now you have to repeat the process for each new segment, rebuild the channels, rebuild new content.
+- ---
+- My brutal Venn diagram who's going to buy an infra product: the buyer
+	- (a) has the technical problem
+	- (b) realizes they need this tool
+	- (c) doesn't want to build it themselves
+	- (d) can integrate easily
+- — Eric Bernhardsson [tweet](https://twitter.com/bernhardsson/status/1581855763965698049)
+- ---
+- **6 ways to beat the CAC problem**
+	- Clear solution to an unusual/weird problem and everyone with that problem chooses you (e.g. Replit for students)
+	- 5 figure ACV (e.g. Retool). For midmarket contracts, CAC is well under LTV so there is no problem. (Series B cos pay Heap $100k, Segment 100k, Salesforce 250-300k, smaller vendors 30-40k)
+	- ultra-premium price (7-8 figure ACV) so one contract is enough, e.g. sell deeptech to high finance.
+	- Solve an unsolved segment (e.g. Roam owned PKM) (but note to reach the market Roam also needed viral growth and strong personality - "roamcult")
+	- hyper-specialize ("low-code for oil&gas enterprise corporate treasuries that trade energy asset derivatives")
+	- **real solution = you need a network effect**
