@@ -1,3 +1,5 @@
+public:: true
+
 - https://cityteacher.wordpress.com/2007/06/10/the-four-stages-of-teaching/ (Kevin Ryan, *The Induction of New Teachers*)
 	- **Fantasy**
 		- Some people call this the idealistic stage. This is usually the period before a new teacher walks into the classroom. **The new teacher feels that she/he would make a fantastic teacher because of various reasons**, that the new teacher is there to save the world or at least save the children, and that every school day will be fun, fun, fun! The new teacher might voice the idea that, “Certainly, teaching will be hard.” Inwardly, the teacher knows that it would be easy.

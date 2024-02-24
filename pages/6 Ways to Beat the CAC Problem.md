@@ -1,5 +1,6 @@
-title:: 6 Ways to Beat the CAC Problem
+public:: true
 
+- title:: 6 Ways to Beat the CAC Problem
 - The CAC problem occurs when a market is **fragmented** with many alternatives, resulting in high cost to bring customers to *your* product (i.e. CAC > LTV).
 	- CAC = customer acquisition cost
 	- LTV = customer lifetime value

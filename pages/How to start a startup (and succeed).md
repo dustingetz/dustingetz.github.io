@@ -1,8 +1,1 @@
-- [[Aphorisms for Founders and Product Managers]]
-- [[Apex strategy framework for startup work alignment]]
-- [[Positioning statement]]
-- [[Model: Previously Unknown Axiom]]
-- [[Model: Cynefin, a map of uncertainty]]
-- [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
-- [[DevOps Maturity Levels]]
-- [[6 Ways to Beat the CAC Problem]]
+-

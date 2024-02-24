@@ -4,29 +4,41 @@
 	-
 - Contact: https://twitter.com/dustingetz (DMs welcome!)
 -
-- Technical content
-	- **[[Signals vs Streams, in terms of backpressure (2023)]]**
-	- **[UIs are streaming DAGs (2022)](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)**
+- Hyperfiddle and Electric content
+	- [London Clojurians – Electric Clojure: compiler managed datasync for rich web apps (2023)](https://www.youtube.com/watch?v=v-GE_P1JSOQ)
+	- [[Signals vs Streams, in terms of backpressure (2023)]]
+	- [Electric Clojure: a signals DSL for full-stack web UI (2023)](https://news.ycombinator.com/item?id=34771771)
+	- [UIs are streaming DAGs (2022)](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
+	- [You don't need a web framework, you need a web language (2021)](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)
 	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
-	- [[On abstraction, and functions with long implementations (2022)]]
-	- **[You don't need a web framework, you need a web language (2021)](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)**
 -
-- For founders
-	- [[How to start a startup (and succeed)]]
+- Programming
+	- [[On abstraction, and functions with long implementations (2022)]]
+	- [[Structure of Information]]
+-
+- How to start a startup (and succeed)
 	- [[Aphorisms for Founders and Product Managers]]
-	- [[4 Stages of Teaching]]
+	- [[Model: Previously Unknown Axiom]]
+	- [[Model: Cynefin, a map of uncertainty]]
+	- [[6 Ways to Beat the CAC Problem]]
+	- [[DevOps Maturity Levels]]
+	- [[Apex strategy framework for startup work alignment]]
+	- [[Positioning statement]]
+	- [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
 	- [[You Can't Tell People Anything (you have to show them)]]
 -
 - Meta
 	- [[Coordinating solutions to inadequate eqilibriums]]
 	- [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
-	- [[On Big Startup Ideas (2017)]]
 	- [[The Curse of Development]]
+	- [[4 Stages of Teaching]]
 	- [[You can sometimes do what sounds impossible by reframing your problem]]
+	- [[On Big Startup Ideas (2017)]]
 	- [[If we can’t test it, is it science?]]
 -
 -
-- Tech Talks
+- Talk history
+	- 2024 ClojureNYC – Differential Dataflow for UI
 	- [2023 London Clojurians – Electric Clojure: compiler managed datasync for rich web apps](https://www.youtube.com/watch?v=v-GE_P1JSOQ)
 	- [2022 Hytradboi – UIs are Streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
 	- 2018 REST FEST – The Quest for a General Hypermedia Client
