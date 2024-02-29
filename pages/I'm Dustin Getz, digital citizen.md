@@ -14,13 +14,13 @@
 -
 - Programming
 	- [[On abstraction, and functions with long implementations (2022)]]
-	- [[Structure of Information]]
+	- [[The Structure of Information]]
 -
 - How to start a startup (and succeed)
 	- [[Aphorisms for Founders and Product Managers]]
 	- [[Model: Previously Unknown Axiom]]
 	- [[Model: Cynefin, a map of uncertainty]]
-	- [[6 Ways to Beat the CAC Problem]]
+	- [[The CAC Problem]]
 	- [[DevOps Maturity Levels]]
 	- [[Apex strategy framework for startup work alignment]]
 	- [[Positioning statement]]
