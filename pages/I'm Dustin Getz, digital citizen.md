@@ -1,5 +1,5 @@
 - I founded [Hyperfiddle](https://www.hyperfiddle.net/), a universal datagrid surface for building cloud GUIs, and [Electric Clojure](https://github.com/hyperfiddle/electric), an experimental programming language for ultra-dynamic stateful apps like word processors, spreadsheets, and IDEs.
-- In the evenings I practice vibraphone and read math textbooks, currently (jan 2024) working through [Physics from Symmetry](https://www.amazon.com/Physics-Symmetry-Undergraduate-Lecture-Notes-dp-3319666304/dp/3319666304/).
+- In the evenings I practice vibraphone and read math textbooks, currently (feb 2024) [Physics from Symmetry](https://www.amazon.com/Physics-Symmetry-Undergraduate-Lecture-Notes-dp-3319666304/dp/3319666304/).
 	- ![2016-vibraphone.jpg](../assets/2016-vibraphone_1677511165637_0.jpg){:height 358, :width 257}
 	-
 - Contact: https://twitter.com/dustingetz (DMs welcome!)
@@ -11,10 +11,6 @@
 	- [UIs are streaming DAGs (2022)](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
 	- [You don't need a web framework, you need a web language (2021)](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)
 	- [[Four problems preventing visual flowchart programming from expressing web applications (2022)]]
--
-- Programming
-	- [[On abstraction, and functions with long implementations (2022)]]
-	- [[The Structure of Information]]
 -
 - How to start a startup (and succeed)
 	- [[Aphorisms for Founders and Product Managers]]
@@ -36,6 +32,9 @@
 	- [[On Big Startup Ideas (2017)]]
 	- [[If we can’t test it, is it science?]]
 -
+- Programming
+	- [[On abstraction, and functions with long implementations (2022)]]
+	- [[The Structure of Information]]
 -
 - Talk history
 	- 2024 ClojureNYC – Differential Dataflow for UI
