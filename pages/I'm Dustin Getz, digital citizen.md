@@ -1,5 +1,5 @@
 - I founded [Hyperfiddle](https://www.hyperfiddle.net/) and created [Electric Clojure](https://github.com/hyperfiddle/electric).
-- As a computer scientist, my research interest is the fine-grained computational structure of user interfaces.
+- I'm a computer scientist interested in the fine-grained computational structure of user interfaces.
 - In the evenings I practice vibraphone and read math textbooks, currently (feb 2024) [Physics from Symmetry](https://www.amazon.com/Physics-Symmetry-Undergraduate-Lecture-Notes-dp-3319666304/dp/3319666304/).
 	- ![2016-vibraphone.jpg](../assets/2016-vibraphone_1677511165637_0.jpg){:height 358, :width 257}
 	-
