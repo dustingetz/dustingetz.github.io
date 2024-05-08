@@ -1,9 +1,11 @@
 - I founded [Hyperfiddle](https://www.hyperfiddle.net/) and created [Electric Clojure](https://github.com/hyperfiddle/electric).
-- I'm a computer scientist interested in the fine-grained computational structure of user interfaces.
+- I'm an independent software researcher with 20 years experience in commercial UI development across all platforms from web to VR.
+- My research interest is in in the fine-grained computational structure of user interfaces and how that understanding maps upwards to application, system, enterprise and even web-scale structures.
 - In the evenings I practice vibraphone and read math textbooks, currently (feb 2024) [Physics from Symmetry](https://www.amazon.com/Physics-Symmetry-Undergraduate-Lecture-Notes-dp-3319666304/dp/3319666304/).
 	- ![2016-vibraphone.jpg](../assets/2016-vibraphone_1677511165637_0.jpg){:height 358, :width 257}
 	-
-- Contact: https://twitter.com/dustingetz (DMs welcome!)
+- [Twitter](https://twitter.com/dustingetz) · [Linkedin](https://www.linkedin.com/in/dustingetz/) · [Github](https://github.com/dustingetz)
+- Contact: DMs welcome on any platform
 -
 - Hyperfiddle and Electric content
 	- [London Clojurians – Electric Clojure: compiler managed datasync for rich web apps (2023)](https://www.youtube.com/watch?v=v-GE_P1JSOQ)
