@@ -1,0 +1,19 @@
+- 2024 Differential Dataflow for UI @ London Clojurians
+- [2023 Electric Clojure: compiler managed datasync for rich web apps @ London Clojurians](https://www.youtube.com/watch?v=v-GE_P1JSOQ)
+- [2022 UIs are Streaming DAGs @ Hytradboi](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
+- 2018 The Quest for a General Hypermedia Client @ REST FEST
+- 2018 The structure of CRUD apps @ Clojadelphia
+- 2017 Datomic: functional programming in the database @ Scala PHASE
+- 2017 Hyperfiddle: a Hypermedia Function @ Scala PHASE
+- [2017 Datomic, and the failures of REST, hypermedia and ORM @ ClojureNYC](https://s3.amazonaws.com/www.dustingetz.com/Getz+2017+Datomic%2C+ORM%2C+Hypermedia+-+ClojureNYC.pdf)
+- [2016 Composable UI — LibertyJS](https://www.youtube.com/watch?v=6888V9YsObM)
+- 2016 Intro to ClojureScript, coding workshop @ LibertyJS
+- [2016 What would happen if REST were immutable? @ LambdaConf](https://docs.google.com/document/d/1hb9qB_d9jlDUpgTSBcFELGhKuWVecVzgGCcOeR9UueE/edit#heading=h.up2n5n7x3shf)
+- 2015 Eliminating I/O concerns with immutability @ Clojadelphia
+- 2015 Rethinking webapp best practices around immutability @ Scala PHASE
+- [2015 What Datomic does to REST @ Day of Datomic](http://web.archive.org/web/20200810210507/http://www.dustingetz.com/:what-datomic-does-to-rest/)
+- 2014 Workshop: React.js and Functional Javascript @ Philly JS
+- [2014 Functional Programming on the Front-end with React.js @ QCon NYC](https://www.infoq.com/presentations/fp-facebook-react)
+- 2013 Livecoding a webapp in both Clojure and Scala @ Philly ETE
+- 2012 Monads in Python @ Strange Loop
+- 2011 Avoid callback hell: a practical introduction to continuations

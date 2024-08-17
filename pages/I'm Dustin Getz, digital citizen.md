@@ -1,5 +1,5 @@
 - I founded [Hyperfiddle](https://www.hyperfiddle.net/) and created [Electric Clojure](https://github.com/hyperfiddle/electric).
-- I'm an independent software researcher with 20 years experience in commercial UI development across all platforms from web to VR.
+- I'm an independent software researcher with 20 years experience in commercial UI development across all platforms from web to VR. [[Tech talk history]].
 - My research interest is in in the fine-grained computational structure of user interfaces and how that understanding maps upwards to application, system, enterprise and even web-scale structures.
 - In the evenings I practice vibraphone and read math textbooks, currently [Atoms, Molecules and Optical Physics](https://www.amazon.com/dp/3642543219).
 	- ![2016-vibraphone.jpg](../assets/2016-vibraphone_1677511165637_0.jpg){:height 358, :width 257}
@@ -7,8 +7,42 @@
 - [Twitter](https://twitter.com/dustingetz) · [Linkedin](https://www.linkedin.com/in/dustingetz/) · [Github](https://github.com/dustingetz)
 - Contact: DMs welcome on any platform
 -
-- How to start a startup (and succeed)
-	- [[Aphorisms for Founders and Product Managers]]
+-
+-
+- ## Aphorisms for Founders and Product Managers
+  id:: 66c0d597-0b75-4bb5-9237-6f61370d8922
+	- Assumptions are what gets you killed
+	- Opportunity is the space between your competitors' assumptions
+	- Intuition is the antonym of reason
+	- What we wish, that we readily believe. — Demosthenes
+	- Engineering is done with numbers. Analysis without numbers is just an opinion
+	- Man errs because his will affirms or negates ideas that are not clear or distinct — Descartes
+	- Again, define your terms, or we shall never understand one another — Voltaire
+	- Language shapes the way we think, and clarity of thought is measured through clarity of language.
+	- [[The Curse of Development]]
+	- Being understood is too big an ask because it requires controlling the other person's perspective. Try instead to communicate
+	- Communication usually fails, except by accident
+	- [[You Can't Tell People Anything (you have to show them)]]
+	- Marketing is telling someone something that they already believe to be true
+	- Working with existing ideas is often mired in existing biases, sunk cost fallacies, and a shroud of confidentiality — all of which limit teams from taking off their blinders and really see the world of possibility.
+	- Judgments are projections of the judge
+	- Everyone has an angle
+	- Groups never admit failure, you get a schism instead
+	- You do not rise to the level of your goals. You fall to the level of your systems.
+	- The goal is not to avoid mistakes; the goal is to achieve uncorrelated levels of excellence in some dimension — Nat Friedman
+	- [[You can’t find secrets without looking for them — Peter Theil]]
+	- [[Much madness is divinest sense]] — Emily Dickinson
+	- [[You can sometimes do what sounds impossible by reframing your problem]]
+	- Impossible is just a big word thrown around by small men who find it easier to live in the world they’ve been given than to explore the power they have to change it. — Muhammad Ali
+	- If a system is to serve the creative spirit, it must be entirely comprehensible to a single individual. Human potential manifests in individuals. — Dan Ingalls
+	- Civilization advances by extending the number of operations we can perform without thinking about them
+	- Time is the denominator
+	- Energy, not time, is our most precious resource. —Jim Loehr
+	- [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
+-
+-
+- ## How to start a startup (and succeed)
+	- [[Aphorisms for Product Management]]
 	- [[Model: Previously Unknown Axiom]]
 	- [[Model: Cynefin, a map of uncertainty]]
 	- [[The CAC Problem]]
@@ -18,38 +52,11 @@
 	- [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
 	- [[You Can't Tell People Anything (you have to show them)]]
 	- [[List of developer tool GTM motions]]
--
-- Meta
 	- [[Coordinating solutions to inadequate eqilibriums]]
 	- [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
-	- [[The Curse of Development]]
 	- [[4 Stages of Teaching]]
-	- [[You can sometimes do what sounds impossible by reframing your problem]]
-	- [[On Big Startup Ideas (2017)]]
 	- [[If we can’t test it, is it science?]]
--
-- Programming
-	- [[On abstraction, and functions with long implementations (2022)]]
--
-- Tech talk history
-	- 2024 ClojureNYC – Differential Dataflow for UI
-	- [2023 London Clojurians – Electric Clojure: compiler managed datasync for rich web apps](https://www.youtube.com/watch?v=v-GE_P1JSOQ)
-	- [2022 Hytradboi – UIs are Streaming DAGs](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
-	- 2018 REST FEST – The Quest for a General Hypermedia Client
-	- 2018 Clojadelphia – The structure of CRUD apps
-	- 2017 Scala PHASE – Datomic: functional programming in the database
-	- 2017 Scala PHASE – Hyperfiddle: a Hypermedia Function
-	- [2017 ClojureNYC – Datomic, and the failures of REST, hypermedia and ORM](https://s3.amazonaws.com/www.dustingetz.com/Getz+2017+Datomic%2C+ORM%2C+Hypermedia+-+ClojureNYC.pdf)
-	- [2016 LibertyJS – Composable UI](https://www.youtube.com/watch?v=6888V9YsObM)
-	- 2016 LibertyJS – Intro to ClojureScript, coding workshop
-	- [2016 LambdaConf – What would happen if REST were immutable?](https://docs.google.com/document/d/1hb9qB_d9jlDUpgTSBcFELGhKuWVecVzgGCcOeR9UueE/edit#heading=h.up2n5n7x3shf)
-	- 2015 Clojadelphia – Eliminating I/O concerns with immutability
-	- 2015 Scala PHASE – Rethinking webapp best practices around immutability
-	- [2015 DatomicConf – What Datomic does to REST](http://web.archive.org/web/20200810210507/http://www.dustingetz.com/:what-datomic-does-to-rest/)
-	- 2014 Philly JS – Workshop: React.js and Functional Javascript, with Daniel Miladinov
-	- [2014 QCon NYC – Functional Programming on the Front-end with React.js](https://www.infoq.com/presentations/fp-facebook-react)
-	- 2013 Philly ETE – Livecoding a webapp in both Clojure and Scala
-	- 2012 Strange Loop – Monads in Python
-	- 2011 Avoid callback hell: a practical introduction to continuations
+	- [[On Big Startup Ideas (2017)]]
+	- [[Coordinating solutions to inadequate eqilibriums]]
 -
 - public:: true

@@ -1,3 +1,5 @@
+- (2021)
+-
 - Business
 	- Assumptions get you killed
 	- Law of Focus (Focus or die)
@@ -33,5 +35,4 @@
 	- Principal Agent Problem
 	- Groups never admit failure, you get a schism instead
 	- [Wiio’s Laws](https://en.wikipedia.org/wiki/Wiio%27s_laws) – Communication usually fails, except by accident. The more we communicate, the worse we succeed.
--
-public:: true
+- public:: true

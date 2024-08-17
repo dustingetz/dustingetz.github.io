@@ -8,3 +8,4 @@ publish:: false
 - [[Nine layers of software development (2022)]]
 - [[What is a functional effect system? (2023)]]
 - [[What is an algebra? (2023)]]
+- [[How to raise venture capital for a contrarian technical hypothesis]]

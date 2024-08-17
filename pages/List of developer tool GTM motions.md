@@ -1,0 +1,14 @@
+- channel partnerships (LCAPs)
+- top-down outbound sales
+- inside sales motion w/ customer success (Looker)
+- "Middle-Out" - deeper in stack & cross team, something for everyone IC/EM/VP
+- open source bottom-up lead gen
+- open source mindshare (not lead gen)
+- developer-led (Twilio)
+- product led growth / freemium
+- community led
+- network effects / social (github)
+- viral product elements - fork/share features (Replit)
+- word of mouth
+- content marketing
+- paid advertising
