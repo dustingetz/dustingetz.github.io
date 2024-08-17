@@ -8,7 +8,7 @@ public:: true
 - Man errs because his will affirms or negates ideas that are not clear or distinct — Descartes
 - Again, define your terms, or we shall never understand one another — Voltaire
 - Language shapes the way we think, and clarity of thought is measured through clarity of language.
-- [[The Curse of Development]]
+- [[The Curse of Development: the depth of any transaction is limited by the depth of the shallower party]]
 - Being understood is too big an ask because it requires controlling the other person's perspective. Try instead to communicate
 - Communication usually fails, except by accident
 - [[You Can't Tell People Anything (you have to show them)]]
@@ -19,7 +19,7 @@ public:: true
 - Groups never admit failure, you get a schism instead
 - You do not rise to the level of your goals. You fall to the level of your systems.
 - The goal is not to avoid mistakes; the goal is to achieve uncorrelated levels of excellence in some dimension — Nat Friedman
-- [[You can’t find secrets without looking for them — Peter Theil]]
+- [[You can’t find secrets without looking for them]]
 - Impossible is just a big word thrown around by small men who find it easier to live in the world they’ve been given than to explore the power they have to change it. — Muhammad Ali
 - [[You can sometimes do what sounds impossible by reframing your problem]]
 - If a system is to serve the creative spirit, it must be entirely comprehensible to a single individual. Human potential manifests in individuals. — Dan Ingalls
