@@ -5,7 +5,7 @@
 	- ![2016-vibraphone.jpg](../assets/2016-vibraphone_1677511165637_0.jpg){:height 358, :width 257}
 	-
 - [Twitter](https://twitter.com/dustingetz) · [Linkedin](https://www.linkedin.com/in/dustingetz/) · [Github](https://github.com/dustingetz)
-- Contact: DMs welcome on any platform
+- Contact: DM me anywhere
 -
 -
 -
