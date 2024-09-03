@@ -8,7 +8,7 @@ public:: true
 - Man errs because his will affirms or negates ideas that are not clear or distinct — Descartes
 - Again, define your terms, or we shall never understand one another — Voltaire
 - Language shapes the way we think, and clarity of thought is measured through clarity of language.
-- [[The Curse of Development: the depth of any transaction is limited by the depth of the shallower party]]
+- [[The depth of any transaction is limited by the depth of the shallower party]]
 - Being understood is too big an ask because it requires controlling the other person's perspective. Try instead to communicate
 - Communication usually fails, except by accident
 - [[You Can't Tell People Anything (you have to show them)]]

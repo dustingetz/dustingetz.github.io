@@ -1,5 +1,6 @@
+title:: The depth of any transaction is limited by the depth of the shallower party
+
 - Venkatesh Rao, [The Gervais Principle III: The Curse of Development](https://www.ribbonfarm.com/2010/04/14/the-gervais-principle-iii-the-curse-of-development/) (2010):
-  title:: The depth of any transaction is limited by the depth of the shallower party
 	- **The depth of any transaction is limited by the depth of the shallower party**. A trivial example: if you speak English and French, and your friend only speaks English, you will be forced to converse in English.
 	- **If the situational developmental gap between two people is sufficiently small, the more evolved person will systematically lose** more often than they win. This is the Curse of Development. When you develop psychologically, and leave somebody behind, your odds of winning get worse before they get better.
 	- If you have ever been manipulated by a baby, you’ve been on the receiving end. If you’ve ever poked fun at a French-quoting pedant by striking a mock-professorial pose and spouting some pseudo French, (le bleu blah), you’ve dished it out. Manipulation by pets is perhaps the most powerful illustration, since your most powerful weapon, human language, is useless.
