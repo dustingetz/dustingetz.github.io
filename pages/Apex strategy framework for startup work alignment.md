@@ -107,7 +107,7 @@ public:: true
 		- Validated Learning requires data, this is meant to be scientific
 		- What are you trying to validate next to show that your GTM strategy is not wrong?
 		- See: [[MVP = build-measure-learn feedback loop]]
-	- [Minimum Viable Plan = Risk Mitigation + Goal Invalidation](See: [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]])
+	- See: [[Minimum Viable Plan = Risk Mitigation + Goal Invalidation]]
 		- we care most about knowing if the plan is correct
 		- so we want metrics to track if the plan itself is wrong
 - ((63d42168-bb90-44f8-8832-9fec4b780760))

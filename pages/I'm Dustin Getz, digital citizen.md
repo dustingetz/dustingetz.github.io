@@ -14,7 +14,7 @@
 	- Assumptions are what gets you killed
 	- Opportunity is the space between your competitors' assumptions
 	- What we wish, that we readily believe. — Demosthenes
-	- Engineering is done with numbers. Analysis without numbers is just an opinion
+	- [Engineering is done with numbers. Analysis without numbers is just an opinion — Atkin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html), also [deck](https://www.ece.uvic.ca/~elec399/201409/Akin's%20Laws%20of%20Spacecraft%20Design.pdf)
 	- Man errs because his will affirms or negates ideas that are not clear or distinct — Descartes
 	- Intuition is the antonym of reason
 	- Again, define your terms, or we shall never understand one another — Voltaire

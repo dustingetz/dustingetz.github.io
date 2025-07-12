@@ -1,3 +1,5 @@
+- 2025: Process Supervision
+- 2025 Electric Clojure: Differential Dataflow for UI @ LambdaConf (keynote!)
 - 2024 Differential Dataflow for UI @ London Clojurians
 - [2023 Electric Clojure: compiler managed datasync for rich web apps @ London Clojurians](https://www.youtube.com/watch?v=v-GE_P1JSOQ)
 - [2022 UIs are Streaming DAGs @ Hytradboi](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
