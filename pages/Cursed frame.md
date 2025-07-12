@@ -1,6 +1,5 @@
-public:: true
-
 - A cursed communication frame is one in which the participants have incompatible frames of reference, which makes the participants unable to align and agree upon the purpose of the exchange. When this occurs, one or both participants are unaccepting of the other's contributions and therefore no constructive exchange can occur. The result is that the communication attempt fails, leaving one or both parties feeling frustrated and rejected.
+-
 - Examples:
 	- Both participants see themselves as superior and the other inferior
 		- [[The depth of any transaction is limited by the depth of the shallower party]]

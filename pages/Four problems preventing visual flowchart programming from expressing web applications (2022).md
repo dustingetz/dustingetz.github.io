@@ -9,4 +9,3 @@
 	- **AST** = Abstract Syntax Tree. AST is the tree data structure that represents a program with textual hierarchical }}}} syntax. E.g. Javascript, Clojure
 	- **LOC** = Lines Of Code, this is a quick measure of scale and complexity of a codebase
 -
-public:: true

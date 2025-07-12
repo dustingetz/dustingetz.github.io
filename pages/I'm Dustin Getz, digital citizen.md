@@ -59,4 +59,3 @@
 	- [[Coordinating solutions to inadequate eqilibriums]]
 	- [[N structural issues in venture capital]]
 -
-- public:: true

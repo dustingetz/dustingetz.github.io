@@ -1,29 +1,33 @@
-public:: true
-
 - Low-code application development is supposed to make software development easier, but the reality is that it turns into a tangled mess of half-baked components.
 - You understand your data model and how functionality maps to it. You understand databases and logical functions.
 - Why does it have to be so complicated?
-## The complexity of software development is overwhelming, and getting worse
+-
+- ### The complexity of software development is overwhelming, and getting worse
 	- toolchain complexity prevents us from even starting the real work
 	- web development requires a full team of specialists (backend, frontend, UX, data, infrastructure), one developer is not enough
 	- risk is out of control - even if you make an investment, who knows what you'll have at the end or how long it will take
-## Low-code is boilerplate automation, not abstraction
+-
+- ### Low-code is boilerplate automation, not abstraction
 	- The rise of modules/APIs have lowered the volatility risk from technology change. Interfaces change less frequently to attract more adopters.
 	- This means low code systems can now make long term stability assumptions, and then design opinionated systems that automate boilerplate construction.
 	- Low-code is _baking in_ accidental complexity, not reducing it! That's why all the complexity is leaking through.
-- ## Software tools should match how you think
+-
+- ### Software tools should match how you think
 	- you want to think in terms of the data of your business domain, not technical internals like frontend/backend
 	- you need a unified information model to express your domain, not different ones for each different component of the stack (UI, backend, API, database, infrastructure)
 	-
 	- What you want is **abstraction**: you want to think at a higher level without caring about **internal plumbing**.
-## Pervasive plumbing is what makes web software so complicated
+-
+- ### Pervasive plumbing is what makes web software so complicated
 	- Modern web information systems are characterized by being _connected_: your application is composed of many individual components (APIs, databases, servers, browsers, monitoring, analytics ...).
 	- You outsource many or most of these components for efficiency, but now they don't run on one machine, rather many that are connected by networks.
 	- And now programmers are needed to code **network data plumbing** to integrate the networked components and move your data between them.
-## True simplicity requires strong abstraction
+-
+- ### True simplicity requires strong abstraction
 	- The strongest abstractions in programming come in the form of **programming languages.** C abstracts over machine language. Java abstracts over memory. Python abstracts over data structures.
 	- To simplify information systems, we need to abstract over this network data plumbing that connects the pieces of your system.
-## A new kind of language, and a new kind of low-code
+-
+- ### A new kind of language, and a new kind of low-code
 	- I am an independent software researcher and I have been working full-time on this problem for five years.
 	- Together with an amazing team of indie software researchers, in the last year we've built a new kind of programming language whose compiler manages all your data plumbing, so you don't have to know or care where your functions run.
 	- Atop this, we're developing a low-code UI modeling tool that lets you quickly develop production-grade applications that can eventually grow to the scale of products like Facebook.
