@@ -1,3 +1,5 @@
+# https://github.com/marketplace/actions/logseq-publish-spa
+
 on: [push]
 
 permissions:
