@@ -1,5 +1,3 @@
-public:: true
-
 - Cynefin (pronounced "kinevin") = a framework for dealing with (operating in) uncertainty
 	- provides managers with the means to realize that they are facing a messy, intractable problem, and with the tools to enable them to make progress in this imperfect world.
 	- we must recognize that traditional management approaches only work within certain boundaries, and that **if we are not in an ordered space, they do not apply**

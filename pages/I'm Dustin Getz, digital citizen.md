@@ -1,4 +1,4 @@
-- I founded [Hyperfiddle](https://github.com/hyperfiddle/hyperfiddle) and created [Electric Clojure](https://github.com/hyperfiddle/electric).
+- I founded [Hyperfiddle](https://www.hyperfiddle.net/) and created [Electric Clojure](https://github.com/hyperfiddle/electric).
 - I'm an independent software researcher interested in the computational structure of user interfaces.
 - In the evenings I practice vibraphone and read math textbooks, currently [Atoms, Molecules and Optical Physics](https://www.amazon.com/dp/3642543219).
 	- ![2016-vibraphone.jpg](../assets/2016-vibraphone_1677511165637_0.jpg){:height 358, :width 257}
