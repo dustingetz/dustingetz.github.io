@@ -14,17 +14,17 @@
 	- Every failure has a moment where you saw it and looked away. That moment is the reason
 	- Assumptions are what gets you killed
 	- Opportunity is the space between your competitors' assumptions
-	- What we wish, that we readily believe. — Demosthenes
 	- Engineering is done with numbers. Analysis without numbers is just an opinion — [Atkin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html), also [deck](https://www.ece.uvic.ca/~elec399/201409/Akin's%20Laws%20of%20Spacecraft%20Design.pdf)
 	- Intuition is the opposite of reason. (Intuition: the power or faculty of attaining to direct knowledge or cognition without evident rational thought and inference; i.e. instinctive knowing)
 	- Man errs because his will affirms or negates ideas that are not clear or distinct — Descartes
-	- Again, define your terms, or we shall never understand one another — Voltaire
 	- Language shapes the way we think, and clarity of thought is measured through clarity of language.
-	- [[The depth of any transaction is limited by the depth of the shallower party]] — Venkatesh Rao
-	- Being understood is too big an ask because it requires controlling the other person's perspective. Try instead to communicate
 	- Communication usually fails, except by accident
+	- Again, define your terms, or we shall never understand one another — Voltaire
+	- Being understood is too big an ask because it requires controlling the other person's perspective. Try instead to communicate
+	- [[The depth of any transaction is limited by the depth of the shallower party]] — Venkatesh Rao
 	- [[You Can't Tell People Anything (you have to show them)]] — Chip Morningstar
 	- Marketing is telling someone something that they already believe to be true
+	- What we wish, that we readily believe. — Demosthenes
 	- Working with existing ideas is often mired in existing biases, sunk cost fallacies, and a shroud of confidentiality — all of which limit teams from taking off their blinders and really see the world of possibility.
 	- Judgments are projections of the judge
 	- Everyone has an angle
