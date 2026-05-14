@@ -1,6 +1,7 @@
 - I work on [Hyperfiddle](https://www.hyperfiddle.net/) and created [Electric Clojure](https://github.com/hyperfiddle/electric).
-- I'm an independent software researcher interested in the computational structure of user interfaces. At school I studied digital signal processing and developed a 3D game engine from scratch in C++ before becoming interested in web development and functional programming.
-- In the evenings I practice vibraphone and read math textbooks, currently [Atoms, Molecules and Optical Physics](https://www.amazon.com/dp/3642543219).
+- I'm an independent software researcher interested in the computational structure of user interfaces.
+- Before becoming interested in web development and functional programming, I studied digital signal processing at school and learned to program by developing a 3D game engine from scratch in C++.
+- In the evenings I practice vibraphone and read physics textbooks, currently [Atoms, Molecules and Optical Physics](https://www.amazon.com/dp/3642543219).
 	- ![2016-vibraphone.jpg](../assets/2016-vibraphone_1677511165637_0.jpg){:height 358, :width 257}
 	-
 - [Twitter](https://twitter.com/dustingetz) · [Linkedin](https://www.linkedin.com/in/dustingetz/) · [Github](https://github.com/dustingetz)
@@ -10,6 +11,7 @@
 - ## Aphorisms for Founders and Product Managers
   id:: 66c0d597-0b75-4bb5-9237-6f61370d8922
 	- The first principle is that you must not fool yourself and you are the easiest person to fool. — Feynman
+	- Every failure has a moment where you saw it and looked away. That moment is the reason
 	- Assumptions are what gets you killed
 	- Opportunity is the space between your competitors' assumptions
 	- What we wish, that we readily believe. — Demosthenes
