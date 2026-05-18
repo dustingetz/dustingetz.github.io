@@ -11,8 +11,8 @@
 - ## Aphorisms for Founders and Product Managers
   id:: 66c0d597-0b75-4bb5-9237-6f61370d8922
 	- The first principle is that you must not fool yourself and you are the easiest person to fool. — Feynman
-	- Every failure has a moment where you saw it and looked away. That moment is the reason
 	- Assumptions are what gets you killed
+	- Every failure has a moment where you saw it and looked away. That moment is the reason
 	- Opportunity is the space between your competitors' assumptions
 	- Engineering is done with numbers. Analysis without numbers is just an opinion — [Atkin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html), also [deck](https://www.ece.uvic.ca/~elec399/201409/Akin's%20Laws%20of%20Spacecraft%20Design.pdf)
 	- Intuition is the opposite of reason. (Intuition: the power or faculty of attaining to direct knowledge or cognition without evident rational thought and inference; i.e. instinctive knowing)
