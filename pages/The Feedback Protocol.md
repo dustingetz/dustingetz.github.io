@@ -1,0 +1,100 @@
+- This is a framework for product managers conducting user interviews.
+- Problem:
+	- feedback interactions are metastable due to their critical nature
+	- without a process to guide it, divergence into conflict is the default
+-
+- The purpose of a feedback framework is to
+	- make it safe for feedback to occur
+	  logseq.order-list-type:: number
+	- ensure the feedback is extracted successfully
+	  logseq.order-list-type:: number
+	- guide the conversation towards convergence and unity of understanding, and away from divergence/conflict
+	  logseq.order-list-type:: number
+-
+- A healthy feedback frame is marked by two powerful phrases:
+	- **"Thank you for the feedback"** (vendor -> user)
+	  logseq.order-list-type:: number
+		- this establishes safety (establishes you, the vendor, as a safe person) so that a vulnerable conversation can occur. The user is sticking his neck out in criticizing you and your product, they are in a position of vulnerability (and anticipating that you might whack them). We have all experienced failed encounters where feedback was not well received and the relationship was consequently damaged.
+		- This phrase is for you as much as them; it prompts you into a listening frame of mind and away from the default defensive stance (your biological survival instinct).
+	- **"That's right"** (user -> vendor) — reflective listening
+	  logseq.order-list-type:: number
+		- "That's right" is the goal, your job as the interviewer is to get the user to say this
+		- The phrase serves as a handshake or checksum that the message has been correctly received as opposed to ignored or corrupted in transmission.
+		- Listen, repeat back what you hear, converge gap to zero, until person confirms with “that’s right." It takes more than one loop. At this point the loop has converged to a fixed point.
+		- Congratulations, the interview has completed successfully! Say thank you again for the feedback, and that you will take what you learned back to the team to review and use it to inform your roadmap. End the call, you are done!
+		- (Consider also the opposite of a fixpoint convergence: divergence. If a feedback conversation diverges, the user leaves damaged and will never speak to you again. Analogously, when a marriage diverges, the result is divorce.)
+-
+- Example of turning around an actively failing conversation:
+	- [https://clojureverse.org/t/electric-clojure-a-signals-dsl-for-fullstack-web-ui/9788/20?u=dustingetz](https://clojureverse.org/t/electric-clojure-a-signals-dsl-for-fullstack-web-ui/9788/20?u=dustingetz)
+		- Thank you for the feedback → you’re right → acknowledge → refute central point → answer with numbers
+		- User reply: “Okay, I see. ... ... Oh wow. By that description of electric, it’s much more thought out than I had first anticipated.”
+	- [https://news.ycombinator.com/item?id=31219819](https://news.ycombinator.com/item?id=31219819)
+		- We appreciate your concern -> you’re right → acknowledge -> refute central point with data
+		- User reply: “This is a fair criticism!”
+	- (Bomb diffused without detonation! Prospective user feels acknowledged for their contribution! Bravo!)
+-
+- **"That's right" vs "You're right"** — they are not the same thing
+	- "That's right" is a listening checksum, it is how you confirm that you have understood correctly which lets the user feel heard
+	- "You're right" is a magic compliance extraction tool, used for disarming an antagonist
+-
+- Anti-patterns
+	- long responses
+	- **quote-replies** (instead, **Refute the Central Point**, c.f. Paul Graham [How to Disagree](https://paulgraham.com/disagree.html))
+		- You don’t need to quote reply and address every little thing. Find the big thing, quote just that, and address it in 3 sentences.
+	- **fast disagreeable replies** that generate notifications (fast supportive replies are okay)
+		- People want to feel heard, their experience acknowledged. When you hit them with a barrage of negative notifications, they feel like they cannot escape, it reduces their feeling of agency over their environment. People will generally act to reassert their agency when this happens, often crudely. Example: Marc Andressen has reportedly blocked 16,000 accounts on twitter.
+	- over-explaining
+	- explaining at the wrong level
+	- counterarguments
+		- PAUL GRAHAM: "Counterargument is contradiction plus reasoning and/or evidence. When aimed squarely at the original argument, it can be convincing. But unfortunately **it's common for counterarguments to be aimed at something slightly different**. More often than not, two people arguing passionately about something are **actually arguing about two different things**. Sometimes they even agree with one another, but are so caught up in their squabble they don't realize it." https://paulgraham.com/disagree.html
+	- absolute take on subjective topic
+		- note: the user is allowed to do this in feedback frame, because you are asking them to express themselves. The vendor is NOT, you must be magnanimous! This is an asymmetric frame!
+	- avoiding the zoom call
+		- did you just spend 5 hours thinking about and typing up your rebuttal? How do you know you are even rebutting the right thing? With body language, you'd have realized your mistake in the first 5 seconds from the angst in their face. If it's not worth a zoom call it's not worth the rebuttal either.
+	- "well actually" https://www.recurse.com/social-rules
+		- definition: "(conversation) used to introduce a contrary opinion"
+	- defensive statements and other self-defense reactions
+	- dismissive statements and other expressions of judgement
+		- the word "No" has no place here, it is a judgement and this is a judgement free zone
+	-
+-
+- The problem with longform written communication
+	- emails, forum posts, inline comments on a document are **terrible mediums for feedback**
+	- it’s too slow to have error correction feedback loops, inevitably the train goes off the rails and then keeps going a while longer before anyone notices, destroying everything it touches before exploding in a ball of fire
+	- slack DMs are still too slow ("User is typing a response..."), slack generates negative encounters that could have been positive, and wastes a bunch of time to boot - see [[The Myth Of Async Communication]]
+	- feedback via body language is immediate and realtime and prevents the train from going off the rails
+	- You aren't writing that rebuttal for the user, your ego is doing that to assuage the perceived injury of receiving criticism.
+-
+- Vendor is the dominant party, user is the subordinate party
+	- responsibility for establishing feedback frame is fully on the vendor, vendor is soliciting the feedback
+	- if the user attempts to establish a feedback frame unsolicited, that is unsolicited feedback
+	- vendor mindset: **magnanimous** ("generous, understanding, tolerant"). You are *hosting* this interview, the user is your valued guest
+		- the user is allowed to be confused or frustrated, and allowed to express irritation or annoyance
+		- the vendor is not (there is no reason to be irritated, as the goal is simply to listen and converge. "What I hear you saying is X, is that right?")
+-
+- The feedback protocol does NOT require the vendor to agree with the feedback, only that they **hear** it
+	- the goal is only to extract and capture the feedback in a way that does not damage the vendor/user relationship (lest the user churn or turn into a detractor)
+	- the user does not need you to agree with their feedback, **they only want to feel heard**
+	- analysis is a separate step, it can happen offline.
+		- It is imperative that analysis DOES NOT occur during the feedback extraction call, because that can lead to a defensive or dismissive tone from the vendor. **If the vendor becomes defensive or dismissive, the feedback frame is immediately poisoned and no further communication can occur.** You have failed!
+-
+- Analyzing feedback
+	- During the offline analysis stage, if the vendor doesn't agree with the feedback, that's fine, but be careful: all humans suffer cognitive bias, your ego is assuaging itself, *this human process cannot be stopped*
+		- "What we wish, that we readily believe." — Demosthenes
+	- You may not be understanding, or be ready to understand:
+		- "Communication usually fails, except by accident"
+	- Or you may be avoiding or deflecting something that you are not ready to face:
+		- "Every failure has a moment where you saw it and looked away. That moment is the reason"
+	- As a rule of thumb, if you hear something three times, there's something there. The way to figure it out is to lean in, not lean out.
+-
+- How to Disagree? **Irrelevant**, disagreement has no place in feedback frame, it leads to divergence, conflict, discord.
+	- PAUL GRAHAM: "Even as high as DH5 we still sometimes see deliberate dishonesty, as when someone picks out minor points of an argument and refutes those. Sometimes the spirit in which this is done makes it more of a sophisticated form of ad hominem than actual refutation."
+-
+- Why feedback matters? Because it generates market learnings -> user alignment -> growth
+	- The goal of all startups is growth. (The opposite of growth is stagnation.)
+	- Growth is generated by user alignment. User alignment is guided by feedback.
+	- Most startups get stuck in the chasm between Seed and Series A. Progress at Seed is often driven by founder intuition, but the market of innovators is small and easily saturated, and the next concentric circle outward has fundamentally different needs and expectations. **User feedback is how the founder redirects his focus away from inward on himself, to outward on the next segment of prospective users.** See: [[Crossing the Series A Chasm]]
+-
+- See also
+	- [[Powerful Phrases]]
+	- [[Frames and frame collisions (communication)]]

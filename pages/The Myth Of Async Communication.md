@@ -1,0 +1,33 @@
+- Problem: not as good feedback loops
+	- face to face communication has tight/immediate feedback loops – “body language”
+	- “strategy vs self expression” – how can we tell if the strategy is succeeding? Need feedback
+	- async communication removes feedback, making communication harder
+		- without tight feedback loops, default is to spiral out of control
+	- “human communication usually fails except by accident”
+	- confused people don’t ask good questions
+-
+- Mitigations
+	- in async communication, be extra intentional / careful
+	- async communication has worse feedback loops and is not that effective when one person is confused
+		- so much misunderstanding (not detected) due to bad feedback loops
+	- “Strategy vs self expression”
+		- strategy = the master is trying to help the apprentice
+		- if the help is not helping, the strategy has failed, so stop doing it and try something else
+-
+- Benefit of sync communication
+	- L: Also, people are usually more polite
+		- it’s easy to be angry at your keyboard
+	- L: idea - ask for async earlier
+	- c.f. Violent agreement
+-
+- Scratch
+	- self-centered - optimizing for individual rather than group
+	- causes rapid
+	- What is the benefit of async?
+		- focus on individual research [R&D]
+			- “Human Potential manifests in individuals”
+		- group designs are mediocre
+		- ability to focus as individual or as group [ambiguous, what does this mean?]
+	- Marketing is telling someone something that they already know to be true
+	  
+	  <!-- notionvc: 5077bcd6-5375-434c-bbeb-e6b150afda72 -->

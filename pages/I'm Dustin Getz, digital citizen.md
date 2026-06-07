@@ -45,6 +45,7 @@
 - ## How to start a startup (and succeed)
 	- [[Aphorisms for Product Management]]
 	- [[Model: Previously Unknown Axiom]]
+	- [[The Feedback Protocol]]
 	- [[Model: Cynefin, a map of uncertainty]]
 	- [[The CAC Problem]]
 	- [[DevOps Maturity Levels]]
@@ -60,4 +61,4 @@
 	- [[On Big Startup Ideas (2017)]]
 	- [[Coordinating solutions to inadequate eqilibriums]]
 	- [[N structural issues in venture capital]]
--
+	- [[Powerful Phrases]]

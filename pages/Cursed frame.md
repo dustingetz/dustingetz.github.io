@@ -3,10 +3,10 @@
 - Examples:
 	- Both participants see themselves as superior and the other inferior
 		- [[The depth of any transaction is limited by the depth of the shallower party]]
-			- Student cannot trust the teacher or no obvious credential of authority to anchor the frame
-			- Teacher attempting to teach an unwilling student
-			- Student cannot trust the teacher has their interests at heart
+		- Example: a failed teacher/student frame
+			- Teacher attempting to teach an unwilling student; Student does not trust that the teacher has their best interests at heart
+			- root cause: no dominant credential for student/teacher to coordinate/agree upon which role they play, relationship may not be consensual
 	- A participant doesn't realize what they really want from the exchange
-		- One person states they want advice but actually wants empathy; other person fails to recognize this and gives rational advice instead of listening.
+		- "mansplaining": woman states she wants advice but actually wants empathy; man fails to recognize this and gives rational advice instead of listening.
 		- See: [[Strategy, not self-expression]]
 		-

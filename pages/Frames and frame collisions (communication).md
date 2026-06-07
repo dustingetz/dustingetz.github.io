@@ -1,0 +1,25 @@
+- a list of frames and frame collisions
+-
+- List of communication frames we encounter at work
+	- teacher/student
+	- master/apprentice
+	- expert/expert (collaboration of mutual respect)
+	- curse of development → clash
+		- credentialist
+	- entrepreneur/investor
+	- boss/employee
+	- dominant/subordinate
+	- feedback request
+		- code review
+-
+- List of frame collisions
+	- ...
+-
+- Hypothesis:
+	- If a frame is not aligned, no communication can occur
+	- the student must be willing
+	- “stalled frame”
+	- “cursed frame” “frame becomes cursed”
+-
+- See also
+	- [[Cursed frame]]

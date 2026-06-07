@@ -1,0 +1,45 @@
+- Powerful phrases
+	- **You’re right** — Use this even when they’re wrong. This phrase prompts you to remember to find the root of their concern, (which is likely shared by others,) and acknowledge their perspective, which makes them feel heard and therefore willing to now listen.
+		- [https://www.reddit.com/r/Clojure/comments/11146ic/hyperfiddleelectric_formerly_photon_has_been_made/j8e94pl/](https://www.reddit.com/r/Clojure/comments/11146ic/hyperfiddleelectric_formerly_photon_has_been_made/j8e94pl/)
+		-
+		- [https://news.ycombinator.com/item?id=34772833](https://news.ycombinator.com/item?id=34772833)
+		- [https://news.ycombinator.com/item?id=34776973](https://news.ycombinator.com/item?id=34776973)
+		- [https://news.ycombinator.com/item?id=31224044](https://news.ycombinator.com/item?id=31224044)
+	- **Thank you for the feedback** — this is for you as much as them; it prompts you into the right frame of mind.
+	- **We don’t know yet** —
+	- **Thank you for the question** —
+		- [https://www.reddit.com/r/Clojure/comments/vizdcc/hyperfiddlephoton_progress_update/idk0dy5/?context=10000](https://www.reddit.com/r/Clojure/comments/vizdcc/hyperfiddlephoton_progress_update/idk0dy5/?context=10000)
+- **“Speak from the I”** – makes it safe to have different opinions, and safe to disagree
+- **Never disagree** — see “you’re right”; disagreement puts people into a defensive state.
+- words like NO and BUT trigger stress hormone release
+	- Hey, I like what you did here BUT ...
+- **Short replies** — the more you write, the more work you are asking them to do to understand
+- **“sarcastic like” “exit like”** – drop a like on an response to make a person go away, you can think of this in your mind as “fuck you :)”
+- **Refuting the Central Point** — [PG: How to Disagree](http://www.paulgraham.com/disagree.html).
+	- you don’t need to quote reply and address every little thing.
+	- Find the big thing and address it in 3 sentences.
+- **Answer with numbers**
+	- “Engineering is done with numbers. Analysis without numbers is just an opinion”
+	- [Amazon writing guidelines](https://www.firstprinciples.ventures/insights/four-tips-to-write-like-amazon)
+- **Don’t fan the flames**
+	- you don’t have to answer every question
+	- you don’t have to answer any question at all
+- **Walk away**
+	- it’s the reply notification that tilts people, especially when the reply is disagreeable
+- **let them have the last word** — the real audience is the readers, and they will judge for themselves; you don’t need to “win” or “beat” everyone!
+- **Slow down your replies**
+- **Don’t get trapped**
+- **Be supportive**
+- **Refocus the conversation on your talking points**
+- **Know the medium:**
+	- **Clojureverse** — particularly prone to arguments because it encourages long disagreeable replies and emails them, making it hard to ignore. The linear structure also focuses attention on back-and-forth arguments, and interesting little comments get lost.
+	- **Reddit** — tree structure makes branching and backtracking easy. Small reply box helps make replies shorter.
+	- **Hacker News** —
+	- **Twitter** — character limit helps focus. it’s not rude to ignore someone; they will forget. Good mute controls – mute bad threads and bad actors.
+- **Kings do not argue with peasants; let masses argue on your behalf:**
+	- example: [https://news.ycombinator.com/item?id=28630209](https://news.ycombinator.com/item?id=28630209)
+		- I did not need to say anything in this thread!
+- **Strategy, not Self-Expression** — ask, what outcome am I trying to produce?
+	- or are you just venting your feelings? Get a therapist
+- **Say the same thing twice and then give an example**
+- **“you count”** — don’t make it about the person, make it about the technology

@@ -1,0 +1,44 @@
+- A powerful phrase is a way to actively redirect a risky or failing interaction back into a healthy one. It is "powerful" because it **immediately halts a failing encounter before it can do more damage, and transforms it into a positive and productive one.**
+-
+- Concept taken from the book [Powerful Phrases for Dealing with Difficult People](https://www.amazon.com/Powerful-Phrases-Dealing-Difficult-People-ebook/dp/B00E1SSIV0/), a must read for product managers
+-
+-
+- You’re right “magic compliance extraction” ; “Indeed”
+-
+- Technical discussions
+	- I don’t understand the idea → I would like to see a unit test
+	- It’s been 2 hours → How much more time should we invest today? (Set a timer)
+	- Frustrated → Should we take a break?
+	- Loss of composure → I'm not thinking clearly; can I have a moment please?
+		- taking a break is far better than the alternative, which is to argue while emotionally compromised, which is a slow motion trainwreck
+		- nobody is going to begrudge you 10 minutes to recompose yourself, they likely want it themselves, and will respect you more for saying it
+		- I have been in some very heated rooms with attorneys from both sides gaslighting each other
+	- We seem confused → Are we making progress?
+	- Manager is rambling → Should we move forward?
+	- When we’ve unintentionally gone too deep → Can we split the topics please?
+	- Ok, you have an idea, can you demonstrate it in 5 minutes?
+	- Is this going to be a bad meeting?
+	- What’s the goal of this meeting?
+-
+- Trigger phrases (redirect to powerful phrase)
+	- This is a waste of time -> We seem confused -> Are we making progress?
+-
+- Triage
+	- Is this productive?
+	- Is this a good use of time?
+	- What do you expect from me?
+	- Is this true?
+	- We’re going in circles, …
+	- Is this the right thing to do?
+	- I see that you feel X, I acknowledge that
+-
+- Concept map
+	- Wiio’s Laws: [](https://en.wikipedia.org/wiki/Wiio%27s_laws)[https://en.wikipedia.org/wiki/Wiio's_laws](https://en.wikipedia.org/wiki/Wiio's_laws)
+	- [Amazon writing guidelines](https://www.firstprinciples.ventures/insights/four-tips-to-write-like-amazon)
+	- “You can’t tell people anything … “
+	- Curse of development
+	- Cursed Frame
+	- [[Aphorisms for Product Management]]
+-
+- See also
+	- [[Dealing with difficult people]]
