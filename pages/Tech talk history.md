@@ -1,7 +1,7 @@
 - [2026 Link into your REPL with clojure.net, from Hyperfiddle @ London Clojurians](https://www.youtube.com/watch?v=aLIMLbAWSfY)
 - [2025 A Datomic Entity Browser for Prod @ Clojure Conj](https://www.youtube.com/watch?v=dmucZkE5gd0)
 - [2025 Electric Clojure: Differential Dataflow for UI @ LambdaConf](https://www.youtube.com/watch?v=QIam96cpIoI), also presented at [ReClojure 2025](https://www.youtube.com/watch?v=ML8cFrWkWeg)
-- [2024 Differential Dataflow for UI @ London Clojurians](https://www.youtube.com/watch?v=mP9e_FDjHLU) — superseded, early explanation of Electric v3
+- [2024 Differential Dataflow for UI @ London Clojurians](https://www.youtube.com/watch?v=mP9e_FDjHLU) — early explanation of Electric v3
 - [2023 Electric Clojure: compiler managed datasync for rich web apps @ London Clojurians](https://www.youtube.com/watch?v=v-GE_P1JSOQ) (Electric v2)
 - [2022 UIs are Streaming DAGs @ Hytradboi](https://hyperfiddle.notion.site/UIs-are-streaming-DAGs-e181461681a8452bb9c7a9f10f507991)
 - 2018 The Quest for a General Hypermedia Client @ REST FEST
