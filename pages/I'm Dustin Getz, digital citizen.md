@@ -1,7 +1,7 @@
-- I work on [Hyperfiddle](https://www.hyperfiddle.net/) and created [Electric Clojure](https://github.com/hyperfiddle/electric).
-- I'm an independent software researcher interested in the computational structure of user interfaces.
-- Before becoming interested in web development and functional programming, I studied digital signal processing at school and learned to program by developing a 3D game engine from scratch in C++.
-- In the evenings I practice vibraphone and read physics textbooks, currently [Atoms, Molecules and Optical Physics](https://www.amazon.com/dp/3642543219).
+- I work on [Hyperfiddle](https://www.hyperfiddle.net/) and [Electric Clojure](https://github.com/hyperfiddle/electric).
+- I am a technical product manager specializing in the development and goto market of technical software products, especially those rooted in applied research.
+- I founded Hyperfiddle to fund and push forward my research interest in the computational structure of user interfaces. As part of this journey I identified a knowledge and communication gap between technical researchers and business managers, and realized that my place in the world is to bridge that gap.
+- I play vibraphone (this is my malletkat, a mallet percussion midi instrument, I play every day). I also have a dilettante interest in atomic physics, and am learning to speak French.
 	- ![2016-vibraphone.jpg](../assets/2016-vibraphone_1677511165637_0.jpg){:height 358, :width 257}
 	-
 - [Twitter](https://twitter.com/dustingetz) · [Linkedin](https://www.linkedin.com/in/dustingetz/) · [Github](https://github.com/dustingetz)

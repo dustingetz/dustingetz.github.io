@@ -21,8 +21,8 @@
 		- "That's right" is the goal, your job as the interviewer is to get the user to say this
 		- The phrase serves as a handshake or checksum that the message has been correctly received as opposed to ignored or corrupted in transmission.
 		- Listen, repeat back what you hear, converge gap to zero, until person confirms with “that’s right." It takes more than one loop. At this point the loop has converged to a fixed point.
-		- Congratulations, the interview has completed successfully! Say thank you again for the feedback, and that you will take what you learned back to the team to review and use it to inform your roadmap. End the call, you are done!
-		- (Consider also the opposite of a fixpoint convergence: divergence. If a feedback conversation diverges, the user leaves damaged and will never speak to you again. Analogously, when a marriage diverges, the result is divorce.)
+		- Congratulations, the interview has completed successfully! Say thank you again for the feedback, end the call, you are done!
+		- (Consider also the opposite of a fixpoint convergence: **divergence**. If a feedback conversation diverges, the user leaves damaged and will never speak to you again. Analogously, when a marriage diverges, the result is divorce.)
 -
 - Example of turning around an actively failing conversation:
 	- [https://clojureverse.org/t/electric-clojure-a-signals-dsl-for-fullstack-web-ui/9788/20?u=dustingetz](https://clojureverse.org/t/electric-clojure-a-signals-dsl-for-fullstack-web-ui/9788/20?u=dustingetz)
@@ -40,22 +40,22 @@
 - Anti-patterns
 	- long responses
 	- **quote-replies** (instead, **Refute the Central Point**, c.f. Paul Graham [How to Disagree](https://paulgraham.com/disagree.html))
-		- You don’t need to quote reply and address every little thing. Find the big thing, quote just that, and address it in 3 sentences.
+		- You don’t need to quote reply and address every little thing. Identify the central point, quote just that, and address it in 3 sentences.
 	- **fast disagreeable replies** that generate notifications (fast supportive replies are okay)
 		- People want to feel heard, their experience acknowledged. When you hit them with a barrage of negative notifications, they feel like they cannot escape, it reduces their feeling of agency over their environment. People will generally act to reassert their agency when this happens, often crudely. Example: Marc Andressen has reportedly blocked 16,000 accounts on twitter.
 	- over-explaining
 	- explaining at the wrong level
 	- counterarguments
 		- PAUL GRAHAM: "Counterargument is contradiction plus reasoning and/or evidence. When aimed squarely at the original argument, it can be convincing. But unfortunately **it's common for counterarguments to be aimed at something slightly different**. More often than not, two people arguing passionately about something are **actually arguing about two different things**. Sometimes they even agree with one another, but are so caught up in their squabble they don't realize it." https://paulgraham.com/disagree.html
-	- absolute take on subjective topic
-		- note: the user is allowed to do this in feedback frame, because you are asking them to express themselves. The vendor is NOT, you must be magnanimous! This is an asymmetric frame!
-	- avoiding the zoom call
-		- did you just spend 5 hours thinking about and typing up your rebuttal? How do you know you are even rebutting the right thing? With body language, you'd have realized your mistake in the first 5 seconds from the angst in their face. If it's not worth a zoom call it's not worth the rebuttal either.
-	- "well actually" https://www.recurse.com/social-rules
-		- definition: "(conversation) used to introduce a contrary opinion"
 	- defensive statements and other self-defense reactions
 	- dismissive statements and other expressions of judgement
 		- the word "No" has no place here, it is a judgement and this is a judgement free zone
+	- "well actually" https://www.recurse.com/social-rules
+		- definition: "(conversation) used to introduce a contrary opinion"
+	- avoiding the zoom call
+		- did you just spend 5 hours thinking about and typing up your rebuttal? How do you know you are even rebutting the right thing? With body language, you'd have realized your mistake in the first 5 seconds from the angst in their face. If it's not worth a zoom call it's not worth the rebuttal either.
+	- absolute take on subjective topic
+		- note: the user is allowed to do this in feedback frame, because you are asking them to express themselves. The vendor is NOT, you must be magnanimous! This is an asymmetric frame!
 	-
 -
 - The problem with longform written communication
@@ -76,7 +76,7 @@
 	- the goal is only to extract and capture the feedback in a way that does not damage the vendor/user relationship (lest the user churn or turn into a detractor)
 	- the user does not need you to agree with their feedback, **they only want to feel heard**
 	- analysis is a separate step, it can happen offline.
-		- It is imperative that analysis DOES NOT occur during the feedback extraction call, because that can lead to a defensive or dismissive tone from the vendor. **If the vendor becomes defensive or dismissive, the feedback frame is immediately poisoned and no further communication can occur.** You have failed!
+		- It is imperative that analysis DOES NOT occur during feedback extraction, because that can lead to a defensive or dismissive tone from the vendor. **If the vendor becomes defensive or dismissive, the feedback frame is immediately poisoned and no further communication can occur.** The conversation has now diverged. You have failed!
 -
 - Analyzing feedback
 	- During the offline analysis stage, if the vendor doesn't agree with the feedback, that's fine, but be careful: all humans suffer cognitive bias, your ego is assuaging itself, *this human process cannot be stopped*
@@ -85,7 +85,7 @@
 		- "Communication usually fails, except by accident"
 	- Or you may be avoiding or deflecting something that you are not ready to face:
 		- "Every failure has a moment where you saw it and looked away. That moment is the reason"
-	- As a rule of thumb, if you hear something three times, there's something there. The way to figure it out is to lean in, not lean out.
+	- As a rule of thumb, if you hear a theme three times, there's something there. The way to figure it out is to lean in, not lean out.
 -
 - How to Disagree? **Irrelevant**, disagreement has no place in feedback frame, it leads to divergence, conflict, discord.
 	- PAUL GRAHAM: "Even as high as DH5 we still sometimes see deliberate dishonesty, as when someone picks out minor points of an argument and refutes those. Sometimes the spirit in which this is done makes it more of a sophisticated form of ad hominem than actual refutation."
