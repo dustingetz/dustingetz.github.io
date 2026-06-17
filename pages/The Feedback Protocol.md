@@ -55,6 +55,7 @@
 		- definition: "(conversation) used to introduce a contrary opinion"
 	- avoiding the zoom call
 		- did you just spend 5 hours thinking about and typing up your rebuttal? How do you know you are even rebutting the right thing? With body language, you'd have realized your mistake in the first 5 seconds. If it's not worth a zoom call it's not worth the rebuttal either.
+		- c.f. https://justinjackson.ca/communication
 	- absolute take on subjective topic
 		- note: the user is allowed to do this in feedback frame, because you are asking them to express themselves. The vendor is NOT, you must be magnanimous! This is an asymmetric frame!
 	-
