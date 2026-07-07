@@ -1,28 +1,29 @@
 public:: true
 
-- Key idea for me: How can you hit a schedule if you don't know all the work?
+- Key idea for me: **How can you hit a schedule, if you don't know all the work?**
 -
-- In retrospect, missed schedule falls into two big causes:
-	- Unplanned Work
-	- Planned Work That Didn't End Up Mattering
-- A prerequisite to No Unplanned Work is Knowing All The Work. To get from a hypothesis of the work to validated understanding of the work requires there to be Value Delivery, i.e. you've already demonstrated you understand at least institutionally how to get an increment of value delivered into the hands of a customer, which is how you validate that the Work Ended Up Mattering.
-- (Consequently, any work that hasn't been validated by a customer, is actually only *hypothetical* work, as we have not validated that the Work Ended Up Mattering.)
-- So you want to establish an end-to-end "through-line" as rapidly as possible so you can start iterating and setting up your feedback loops which facilitate work discovery and value validation.
+- In retrospect, **missed schedule** falls into two big causes:
+	- **Unplanned Work**
+		- A prerequisite to **No Unplanned Work** is **Knowing All The Work**.
+	- **Planned Work That Didn't End Up Mattering**
+		- To get from a **hypothesis of the work** to **validated understanding of the work** requires there to be **Value Delivery**, i.e. you've already demonstrated you understand at least institutionally how to get an increment of value delivered into the hands of a customer, which is how you validate that the **Work Ended Up Mattering**.
+		- Consequently, any work that hasn't been **validated by a customer,** is actually only *hypothetical* work, as we have not validated that the **Work Ended Up Mattering**. So you want to establish an end-to-end "through-line" as rapidly as possible so you can start iterating and setting up your feedback loops which facilitate work discovery and value validation.
 -
 -
-- Work drives the enterprise – reactive, survive and fix
-- Job & material release control
-- Work visualization
-- Knowing all the work
-- Knowing the capacity
-- Constraint location
-- Constraint protection
-- Flow & control
-- Work segmentation
-- Strong feedback loops
-- Alignment
-- Value delivery
-- **No unplanned work**
-- Enterprise drives work – proactive, construction, development, cultivate
+- ## Ladder of DevOps Maturity Levels
+	- Work drives the enterprise – reactive, survive and fix
+	- Job & material release control
+	- Work visualization
+	- Knowing all the work
+	- Knowing the capacity
+	- Constraint location
+	- Constraint protection
+	- Flow & control
+	- Work segmentation
+	- Strong feedback loops
+	- Alignment
+	- Value delivery
+	- **No unplanned work**
+	- Enterprise drives work – proactive, construction, development, cultivate
 -
 - Source: *Charles' DevSecOps Product Mgmt Coaching Cards*
