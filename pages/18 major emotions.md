@@ -1,0 +1,18 @@
+- **Fear**: A call to focus. I need to increase a priority & let go of other things.
+- **Anger**: A call to establish & enforce my boundaries.
+- **Anxiety**: A call to pay attention to something I am ignoring.
+- **Flashbacks**: A call to deal with my past trauma.
+- **Confusion**: A call to step back & re-establish my intentions. For me this often takes the form of asking what I would do if I was serving my mission to help geeks feel safe in the world.
+- **Envy**: A call to safeguard my social standing.
+- **Jealousy**: A call to safeguard (or let go of) an important relationship.
+- **Hatred**: A call to accept something about myself I don't like.
+- **Boredom**: A call to do something I am avoiding.
+- **Apathy**: A call to accept that I am stuck.
+- **Guilt**: A call to change.
+- **Shame**: A call to accept myself & then change.
+- **Terror**: A call to freeze in the face of fear (rather than run or attack).
+- **Sadness**: A call to release something I'm attached to.
+- **Despair**: A stronger form of sadness. I really need to release something I'm attached to.
+- **Grief**: A call to honor loss.
+- **Depression**: A call to understand deeply.
+- **Suicidal thoughts**: A call to change. (My suicidal thoughts diminished when I learned to interpret them as saying, "I really don't want to be in this situation.")

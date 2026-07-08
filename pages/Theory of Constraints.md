@@ -1,0 +1,14 @@
+- **Theory of Constraints: 5 Focusing Steps**
+	- **Articulate** the goal of the system. *How do we measure the system’s success?*
+	- **Identify** the constraint. *What is the resource limiting the system from attaining more of its goal?*
+	- **Exploit** the constraint to its fullest. *How can we keep the constraining resource as busy as possible, exclusively on what it can do that adds the most value to the entire system?*
+	- **Subordinate** all other processes to the decisions made in Step 3. *How can we align all processes so they give the constraining resource everything it needs, and nothing it doesn't?*
+	- **Elevate** the constraint. *If managing the constraining resource more efficiently does not give us all the improvement we need, then how can we acquire more of the resource?*
+	- Avoid inertia. Has the constraint moved to some other resource as a result of the previous steps? If so, don’t allow inertia itself to become the constraint: go back to step 1.
+-
+- Commentary
+	- **Theory of Constraints:** In a nutshell, we want to **stop trying to do the ‘wrong things righter’** (an over-emphasis on efficiency and/or cost-management), and instead do the right things (an emphasis on effectiveness and flow-management).
+	- We don’t use 100% of our human capital and resources. Getting more people/money/time is like pouring more water into a leaky bucket. If you add people to a wasteful team, you’re increasing waste. We should fix the leakage instead. **We can do more useful work with the same resources.**
+	- If you think of a process as a chain, you want to **find and strengthen the weakest link** in that chain. Any effort to strengthen other links doesn’t strengthen the chain (system).
+	- To extend that analogy, sometimes, over-strengthening the non-weakest link can make the weakest link weaker, perhaps by having increased the load on it!
+-
