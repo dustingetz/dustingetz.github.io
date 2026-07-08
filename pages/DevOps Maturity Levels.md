@@ -1,29 +1,31 @@
-public:: true
-
-- Key idea for me: **How can you hit a schedule, if you don't know all the work?**
--
-- In retrospect, **missed schedule** falls into two big causes:
-	- **Unplanned Work**
-		- A prerequisite to **No Unplanned Work** is **Knowing All The Work**.
-	- **Planned Work That Didn't End Up Mattering**
-		- To get from a **hypothesis of the work** to **validated understanding of the work** requires there to be **Value Delivery**, i.e. you've already demonstrated you understand at least institutionally how to get an increment of value delivered into the hands of a customer, which is how you validate that the **Work Ended Up Mattering**.
-		- Consequently, any work that hasn't been **validated by a customer,** is actually only *hypothetical* work, as we have not validated that the **Work Ended Up Mattering**. So you want to establish an end-to-end "through-line" as rapidly as possible so you can start iterating and setting up your feedback loops which facilitate work discovery and value validation.
--
--
-- ## Ladder of DevOps Maturity Levels
-	- Work drives the enterprise – reactive, survive and fix
-	- Job & material release control
-	- Work visualization
-	- Knowing all the work
-	- Knowing the capacity
-	- Constraint location
-	- Constraint protection
-	- Flow & control
-	- Work segmentation
-	- Strong feedback loops
-	- Alignment
-	- Value delivery
-	- **No unplanned work**
-	- Enterprise drives work – proactive, construction, development, cultivate
+- Work drives the enterprise – reactive, survive and fix
+- Job & material release control
+- Work visualization
+- **Knowing all the work**
+- Knowing the capacity
+- Constraint location
+- Constraint protection
+- Flow & control
+- Work segmentation
+- Strong feedback loops
+- Alignment
+- Value delivery
+- **No unplanned work**
+- Enterprise drives work – proactive, construction, development, cultivate
 -
 - Source: *Charles' DevSecOps Product Mgmt Coaching Cards*
+-
+- Explanation:
+- This is a list of maturity stages that devops orgs grow through. The immature side starts at "react/survive/fix" (**disorder, constant firefighting - the work drives us**, we are constantly reacting to the work) and the mature side ends at proactive/construct/develop/cultivate (**we drive the work**, we are constantly in control of the work). The framework outlines the **spectrum of maturity stages** between these extremes, forming a "map" that helps us understand how to reach a maturity level of having **"No Unplanned Work"**, at which point we can truly state that we are in control of the work, not the work is in control of us.
+-
+- The key idea for me is: **How can you hit a schedule, if you don't know (can't enumerate) all the work?** And how can you enumerate the work if you can't visualize all the work? And how can you visualize the work without capturing it through a job release control system (e.g. Jira)?
+-
+- In retrospect, **missed schedule** falls into two big causes:
+	- **Unplanned Work**
+	- **Planned Work That Didn't End Up Mattering**
+-
+- So how do we eliminate these two causes?
+	- **A prerequisite to No Unplanned Work is Knowing All The Work.**
+	- To get from a **hypothesis of the work** to **validated understanding of the work** requires there to be **Value Delivery**, i.e. you've already demonstrated you understand at least institutionally how to get an increment of value delivered into the hands of a customer, which is how you validate that the **Work Ended Up Mattering**.
+	- Consequently, any work that hasn't been **validated by a customer,** is actually only *hypothetical* work, as we have not validated that the **Work Ended Up Mattering**. So you want to establish an end-to-end **"through-line**" as rapidly as possible so you can start iterating and setting up your feedback loops which facilitate **work discovery** and **value validation**.
+-
