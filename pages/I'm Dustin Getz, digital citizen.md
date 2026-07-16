@@ -16,6 +16,7 @@
 	- Opportunity is the space between your competitors' assumptions
 	- Engineering is done with numbers. Analysis without numbers is just an opinion — [Atkin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html), also [deck](https://www.ece.uvic.ca/~elec399/201409/Akin's%20Laws%20of%20Spacecraft%20Design.pdf)
 	- Intuition is the opposite of reason. (Intuition: the power or faculty of attaining to direct knowledge or cognition without evident rational thought and inference; i.e. instinctive knowing)
+	- Frame error: You can get every fact right and every inference valid, and still be wrong, because your framework for reasoning about the problem is structurally inadequate. https://linch.substack.com/p/frame-error
 	- Man errs because his will affirms or negates ideas that are not clear or distinct — Descartes
 	- Language shapes the way we think, and clarity of thought is measured through clarity of language.
 	- Communication usually fails, except by accident
@@ -62,3 +63,7 @@
 	- [[Coordinating solutions to inadequate eqilibriums]]
 	- [[N structural issues in venture capital]]
 	- [[Powerful Phrases]]
+	- [[Theory of Constraints]]
+	- [[18 major emotions]]
+	- [[Dealing with difficult people]]
+	- [[Frames and frame collisions (communication)]]
