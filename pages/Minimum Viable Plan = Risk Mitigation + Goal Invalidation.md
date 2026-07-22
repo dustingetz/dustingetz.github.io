@@ -1,18 +1,16 @@
 - Plans have a few purposes:
 	- (1) work out contingencies and what-if scenarios
-	- (2) determine if the plan itself is wrong
+	- (2) **determine if the plan itself is wrong**
 	- (3) communicate with key stakeholders (employees, customers, investors)
 - A minimum viable plan must answer:
 	- (1) what is the risk mitigation plan for achieving the goals?
 		- What's the risk
 		- How are we managing the risk
 	- (2) "Goal Invalidation"
-		- What metrics will we use to show that the plan is WRONG?
+		- What metrics will we use to show that **the plan is WRONG?**
 	- (3) Who are the key stakeholders
-- we care most about knowing if the plan is correct
-	- so we want metrics to track if the **plan itself is wrong**
-	- which is different than execution against the plan
-	- tracking execution against the plan assumes the plan is correct
+- we care most about **knowing if the plan is correct**
+	- so we want metrics to track if the **plan itself is wrong**, which is different than execution against the plan. **tracking execution against the plan assumes the plan is correct**
 	- "assumptions are what gets you killed"
 - we want the lieutenants to come up with ways to demonstrate that these are the wrong goals to have.
 	- force them to break the plan so that it strengthens the plan
@@ -26,4 +24,4 @@
 		- explains what you're doing
 		- simple enough that anyone can understand
 		- and they can understand their role in the plan
-public:: true
+		  public:: true
