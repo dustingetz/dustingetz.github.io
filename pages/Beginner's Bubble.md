@@ -1,0 +1,15 @@
+- The "beginner's bubble" is the initial phase of the Dunning-Kruger Effect where a small amount of knowledge causes a massive surge in overconfidence. Beginners think they have mastered a topic because they do not know enough yet to see how vast and complex the subject really is.
+-
+-
+- How the Beginner's Bubble Works
+	- **The Spark:** Learning a few basic facts or terms makes a person feel smart very quickly.
+	- **The Blind Spot:** True skill and self-assessment require the exact same knowledge that the beginner is missing.
+	- **The Trap:** Because they cannot see the hidden dangers, they make risky choices and ignore good advice.
+-
+- Escaping the Bubble
+	- **The Drop:** Realizing how much more there is to learn causes confidence to crash into doubt.
+	- **The Climb:** True expertise grows slowly as a person gains real practice and humility.
+-
+-
+- "Across 6 studies we investigated the development of overconfidence among beginners. **Although beginners did not start out overconfident in their judgments, they rapidly surged to a 'beginner’s bubble' of overconfidence. This bubble was traced to exuberant and error-filled theorizing about how to approach the task formed after just a few learning experiences.** Later trials challenged and refined those theories, leading to a temporary leveling off of confidence while performance incrementally improved, although confidence began to rise again after this pause. In 2 additional studies we found a real-world echo of this pattern of overconfidence across the life course. Self-ratings of financial literacy surged among young adults, then leveled off among older respondents until late adulthood, where it begins to rise again, with actual financial knowledge all the while rising more slowly, consistently, and incrementally throughout adulthood. Hence, when it comes to overconfident judgment, a little learning does appear to be a dangerous thing. Although beginners start with humble self-perceptions, with just a little experience their confidence races ahead of their actual performance." — [Overconfidence Among Beginners: Is a Little Learning a Dangerous Thing](https://people.uncw.edu/hakanr/documents/overconfidence2017.pdf)
+-

@@ -59,6 +59,7 @@
 	- [[Sufficiently Powerful Optimization Of Any Known Target Destroys All Value]]
 	- [[4 Stages of Teaching]]
 	- [[4 Stages of Competence]]
+	- [[Beginner's Bubble]]
 	- [[If we can’t test it, is it science?]]
 	- [[On Big Startup Ideas (2017)]]
 	- [[Coordinating solutions to inadequate eqilibriums]]
