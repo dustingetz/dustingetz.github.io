@@ -1,6 +1,7 @@
-public:: true
-
-- ![image.png](../assets/image_1688564105841_0.png)
+- Initial conclusion:
+	- ![image.png](../assets/image_1789216214677_0.png)
+- Different conclusion:
+	- ![image.png](../assets/image_1688564105841_0.png){:height 592, :width 778}
 -
 - Source: https://commoncog.com/how-first-principles-thinking-fails/
 	- "But I think there's a more pernicious form of failure, which occurs when you reason from the **wrong set of true principles**. It is pernicious because you can’t easily detect the flaws in your reasoning. **It is pernicious because all of your base axioms are true.**
@@ -45,13 +46,19 @@ public:: true
 		- Do you really know? **Or do you just like seeing yourself as someone who knows things?**
 			- Powerful phrase: "How do you know?"
 		- Writing makes you accountable to yourself
-			- How do I know? prove it to yourself
+			- How do I know? prove it by writing it out
+			- Like math and engineering: Show your work, check your answer
 		- Writing as a synthesis activity
 			- Compare to formal learning process (i.e. at university)
 				- textbook -> lecture -> homework -> quiz -> lab -> midterm exam -> final exam
 					- synthesis – if you don't do the homework you won't pass the test!
-					- feedback – how do you know you know
+					- exams are feedback – how do you know you know? Did you ace all of your exams?
 		- Knowledge decay
+			- getting older sucks, we forget things that we used to know
+				- would you ace your university exams if taken again today?
+			- but we still see ourselves as that same wise person who knows
+				- our self image is incoherent with reality -> over-confidence -> broken assumptions -> killed
+			- "The older I get, the more anxious I get, because I understand how little I know"
 -
 - List of blind spots in famous smart people
 	- Smart haskell programer who hates dynamic languages
@@ -60,3 +67,6 @@ public:: true
 		- Clojure twitter
 		- Rich Hickey
 	- Venture capitalist
+-
+- Unified image:
+- ![image.png](../assets/image_1789229185350_0.png)
